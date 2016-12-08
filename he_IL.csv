@@ -3471,36 +3471,36 @@ Admin,מנהל,module,Magento_Customer
 "Please enter a valid date equal to or greater than %1 at %2.","Please enter a valid date equal to or greater than %1 at %2.",module,Magento_Customer
 "Please enter a valid date less than or equal to %1 at %2.","Please enter a valid date less than or equal to %1 at %2.",module,Magento_Customer
 """%1"" is not a valid file extension.","""%1"" is not a valid file extension.",module,Magento_Customer
-"""%1"" is not a valid file.","""%1"" is not a valid file.",module,Magento_Customer
-"""%1"" exceeds the allowed file size.","""%1"" exceeds the allowed file size.",module,Magento_Customer
-"""%1"" is not a valid image format.","""%1"" is not a valid image format.",module,Magento_Customer
-"""%1"" width exceeds allowed value of %2 px.","""%1"" width exceeds allowed value of %2 px.",module,Magento_Customer
-"""%1"" height exceeds allowed value of %2 px.","""%1"" height exceeds allowed value of %2 px.",module,Magento_Customer
-"""%1"" length must be equal or greater than %2 characters.","""%1"" length must be equal or greater than %2 characters.",module,Magento_Customer
-"""%1"" length must be equal or less than %2 characters.","""%1"" length must be equal or less than %2 characters.",module,Magento_Customer
+"""%1"" is not a valid file.","""%1"" אינו קובץ חוקי.",module,Magento_Customer
+"""%1"" exceeds the allowed file size.","""%1"" חורג מגודל הקובץ המותר.",module,Magento_Customer
+"""%1"" is not a valid image format.","""%1"" הוא לא פורמט תמונה בתוקף.",module,Magento_Customer
+"""%1"" width exceeds allowed value of %2 px.","רוחב ""%1"" עולה על הערך המותר של %2 פיקסל.",module,Magento_Customer
+"""%1"" height exceeds allowed value of %2 px.","הגובה ""%1"" חורג מהערכים המותרים של %2 פיקסל.",module,Magento_Customer
+"""%1"" length must be equal or greater than %2 characters.","אורך ""%1"" חייב להיות שווה או גדול מ- %2 תווים.",module,Magento_Customer
+"""%1"" length must be equal or less than %2 characters.","אורך ""%1"" חייב להיות שווה או פחות %2 תווים.",module,Magento_Customer
 label,תווית,module,Magento_Customer
-"Please enter a customer email.","Please enter a customer email.",module,Magento_Customer
-"A customer website ID must be specified when using the website scope.","A customer website ID must be specified when using the website scope.",module,Magento_Customer
-"Customer Group","Customer Group",module,Magento_Customer
-"You can't delete group ""%1"".","You can't delete group ""%1"".",module,Magento_Customer
-"Customer Group already exists.","Customer Group already exists.",module,Magento_Customer
-"Cannot delete group.","Cannot delete group.",module,Magento_Customer
+"Please enter a customer email.","נא הזן דואר אלקטרוני ללקוח.",module,Magento_Customer
+"A customer website ID must be specified when using the website scope.","יש לציין מזהה אתר של הלקוח בעת שימוש בטווח האתר.",module,Magento_Customer
+"Customer Group","קבוצת לקוחות",module,Magento_Customer
+"You can't delete group ""%1"".","לא ניתן למחוק את הקבוצה \"%1\".",module,Magento_Customer
+"Customer Group already exists.","קבוצת הלקוחות כבר קיימת.",module,Magento_Customer
+"Cannot delete group.","לא ניתן למחוק את הקבוצה.",module,Magento_Customer
 "Error during VAT Number verification.","Error during VAT Number verification.",module,Magento_Customer
-"PHP SOAP extension is required.","PHP SOAP extension is required.",module,Magento_Customer
-"VAT Number is valid.","VAT Number is valid.",module,Magento_Customer
-"Please enter a valid VAT number.","Please enter a valid VAT number.",module,Magento_Customer
-"Your VAT ID was successfully validated.","Your VAT ID was successfully validated.",module,Magento_Customer
-"You will be charged tax.","You will be charged tax.",module,Magento_Customer
-"You will not be charged tax.","You will not be charged tax.",module,Magento_Customer
-"The VAT ID entered (%1) is not a valid VAT ID.","The VAT ID entered (%1) is not a valid VAT ID.",module,Magento_Customer
-"Your Tax ID cannot be validated.","Your Tax ID cannot be validated.",module,Magento_Customer
+"PHP SOAP extension is required.","סיומת PHP SOAP נדרשת.",module,Magento_Customer
+"VAT Number is valid.","מספר המע״מ אינו חוקי.",module,Magento_Customer
+"Please enter a valid VAT number.","הזינו מספר מע״מ חוקי.",module,Magento_Customer
+"Your VAT ID was successfully validated.","תעודה מזהה עבור המע״מ אומתה בהצלחה.",module,Magento_Customer
+"You will be charged tax.","אתה תחוייב במס.",module,Magento_Customer
+"You will not be charged tax.","אתה לא תחויב במס.",module,Magento_Customer
+"The VAT ID entered (%1) is not a valid VAT ID.","מזהה מע״מ נכנס (%1) אינו מזהה מע״מ חוקי.",module,Magento_Customer
+"Your Tax ID cannot be validated.","אין אפשרות לאמת את תעודת הזהות של המס שלך.",module,Magento_Customer
 "If you believe this is an error, please contact us at %1","If you believe this is an error, please contact us at %1",module,Magento_Customer
 "No such entity with %fieldName = %fieldValue","No such entity with %fieldName = %fieldValue",module,Magento_Customer
-Male,Male,module,Magento_Customer
-Female,Female,module,Magento_Customer
-"Not Specified","Not Specified",module,Magento_Customer
+Male,זכר,module,Magento_Customer
+Female,נקבה,module,Magento_Customer
+"Not Specified","לא מוגדר",module,Magento_Customer
 "Thank you for registering with","תודה על הרשמתך עם",module,Magento_Customer
-"enter your billing address for proper VAT calculation","enter your billing address for proper VAT calculation",module,Magento_Customer
+"enter your billing address for proper VAT calculation","הזן את כתובת החיוב שלך עבור חישוב מע״מ נכון",module,Magento_Customer
 "enter your shipping address for proper VAT calculation","enter your shipping address for proper VAT calculation",module,Magento_Customer
 "Please enter new password.","Please enter new password.",module,Magento_Customer
 message,message,module,Magento_Customer
