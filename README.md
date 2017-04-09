@@ -34,7 +34,7 @@ Install the Hebrew language pack via composer is never easier.
 **Install Hebrew pack**:
 
 ```
-composer require mageplaza/magento-2-hebrew-language-pack:*
+composer require mageplaza/magento-2-hebrew-language-pack:dev-master
 php bin/magento cache:clean
 php bin/magento setup:static-content:deploy he-il
 
@@ -44,7 +44,7 @@ php bin/magento setup:static-content:deploy he-il
 **Update  Hebrew pack**:
 
 ```
-composer update mageplaza/magento-2-hebrew-language-pack:*
+composer update mageplaza/magento-2-hebrew-language-pack:dev-master
 php bin/magento cache:clean
 php bin/magento setup:static-content:deploy he-il
 
