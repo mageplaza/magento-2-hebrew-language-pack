@@ -2727,6 +2727,7 @@ Payment,תשלום,module,Magento_Checkout
 "Not yet calculated","עדיין לא חושב",module,Magento_Checkout
 "We received your order!","קיבלנו את ההזמנה שלך!",module,Magento_Checkout
 "Thank you for your purchase!","תודה על הרכישה!",module,Magento_Checkout
+"Go to Checkout","מעבר לתשלום",module,Magento_Checkout
 "Terms and Conditions","תנאי שימוש",module,Magento_CheckoutAgreements
 "Add New Condition","הוסף תנאי חדש",module,Magento_CheckoutAgreements
 "Save Condition","שמור תנאי",module,Magento_CheckoutAgreements
