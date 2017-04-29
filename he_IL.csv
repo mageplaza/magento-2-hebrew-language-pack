@@ -239,36 +239,35 @@ Edit,ערוך,module,Magento_AdvancedSearch
 "Subscription status","סטטוס מינוי",module,Magento_Analytics
 "Sorry, there has been an error processing your request. Please try again later.","מצטערים, אירעה שגיאה בעת עיבוד בקשתך.
 נא לנסות שנית.",module,Magento_Analytics
-"Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.","Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.",module,Magento_Analytics
+"Sorry, there was an error processing your registration request to Magento Analytics. Please try again later.","מצטערים, אירעה שגיאה בעיבוד בקשת ההרשמה שלך ל- Magento Analytics. בבקשה נסה שוב מאוחר יותר.",module,Magento_Analytics
 "Error occurred during postponement notification","אירעה שגיאה במהלך הודעה על הדחייה",module,Magento_Analytics
 "Command was not found.","הפקודה לא נמצאה.",module,Magento_Analytics
-"There was an error save new configuration value.","There was an error save new configuration value.",module,Magento_Analytics
-"Please select a vertical.","Please select a vertical.",module,Magento_Analytics
+"There was an error save new configuration value.","אירעה שגיאה בעת שמירת ערך תצורה חדשה.",module,Magento_Analytics
+"Please select a vertical.","נא בחר אנכי.",module,Magento_Analytics
 "--Please Select--","-- נא לבחור --",module,Magento_Analytics
-"Cannot find predefined integration user!","Cannot find predefined integration user!",module,Magento_Analytics
-TestMessage,TestMessage,module,Magento_Analytics
+"Cannot find predefined integration user!","לא ניתן למצוא משתמש אינטגרציה מוגדר מראש!",module,Magento_Analytics
+TestMessage,"הודעת בדיקה",module,Magento_Analytics
 "Error message","הודעת שגיאה",module,Magento_Analytics
 "Apps and Games","אפליקציות ומשחקים",module,Magento_Analytics
-"Athletic/Sporting Goods","Athletic/Sporting Goods",module,Magento_Analytics
+"Athletic/Sporting Goods","מוצרי אתלטיקה\ספורט",module,Magento_Analytics
 "Art and Design","אמנות ועיצוב",module,Magento_Analytics
 "Free Tier","Free Tier",module,Magento_Analytics
-"An error occurred while subscription process.","An error occurred while subscription process.",module,Magento_Analytics
-Analytics,Analytics,module,Magento_Analytics
+"An error occurred while subscription process.","אירעה שגיאה בעת תהליך המנוי.",module,Magento_Analytics
+Analytics,אנליטיקס,module,Magento_Analytics
 API,API,module,Magento_Analytics
-Configuration,Configuration,module,Magento_Analytics
+Configuration,הגדרות,module,Magento_Analytics
 "BI Essential","BI Essential",module,Magento_Analytics
 "Basic Tier","Basic Tier",module,Magento_Analytics
 "BI Essentials","BI Essentials",module,Magento_Analytics
-General,General,module,Magento_Analytics
+General,כללי,module,Magento_Analytics
 "Send the system and transaction data to Magento Analytics service","Send the system and transaction data to Magento Analytics service",module,Magento_Analytics
-Vertical,Vertical,module,Magento_Analytics
-"Analytics Subscription","Analytics Subscription",module,Magento_Analytics
-"Subscription Confirmation","Subscription Confirmation",module,Magento_Analytics
-Cancel,Cancel,module,Magento_Analytics
-Ok,Ok,module,Magento_Analytics
+Vertical,אנכי,module,Magento_Analytics
+"Analytics Subscription","מנוי analytics",module,Magento_Analytics
+"Subscription Confirmation","אישור המנוי",module,Magento_Analytics
+Cancel,בטל,module,Magento_Analytics
+Ok,אישור,module,Magento_Analytics
 "I agree with sending my system
-                            configuration and transaction data to Magento Analytics.","I agree with sending my system
-                            configuration and transaction data to Magento Analytics.",module,Magento_Analytics
+                            configuration and transaction data to Magento Analytics.","אני מסכים לשליחת נתוני תצורה ועסקאות ממערכת המג'נטו Analytics שלי.",module,Magento_Analytics
 Back,חזור,module,Magento_AsynchronousOperations
 Done,בוצע,module,Magento_AsynchronousOperations
 Retry,"נסה שנית",module,Magento_AsynchronousOperations
@@ -1560,8 +1559,8 @@ Products,מוצרים,module,Magento_Catalog
 "You removed product %1 from the comparison list.","הסרת מוצר %1 מרשימת ההשוואה.",module,Magento_Catalog
 "1 item","פריט אחד",module,Magento_Catalog
 "%1 items","%1 פריטים",module,Magento_Catalog
-"Are you sure you want to remove this item from your Compare Products list?","Are you sure you want to remove this item from your Compare Products list?",module,Magento_Catalog
-"Are you sure you want to remove all items from your Compare Products list?","Are you sure you want to remove all items from your Compare Products list?",module,Magento_Catalog
+"Are you sure you want to remove this item from your Compare Products list?","האם אתה בטוח שברצונך להסיר פריט זה מהשוואת המוצרים?",module,Magento_Catalog
+"Are you sure you want to remove all items from your Compare Products list?","האם אתה בטוח שברצונך להסיר את כל הפריטים מהשוואת המוצרים?",module,Magento_Catalog
 "Invalid attribute %1","תכונה לא חוקית %1",module,Magento_Catalog
 Grid,"גריד תצוגה",module,Magento_Catalog
 List,רשימה,module,Magento_Catalog
@@ -1599,7 +1598,7 @@ frontend_label,frontend_label,module,Magento_Catalog
 Manual,"באופן ידני",module,Magento_Catalog
 Fixed,קבוע,module,Magento_Catalog
 Percent,אחוז,module,Magento_Catalog
-Discount,Discount,module,Magento_Catalog
+Discount,הנחה,module,Magento_Catalog
 "-- Please select --","-- אנא בחר --",module,Magento_Catalog
 "Product Thumbnail Itself","התמונה הממוזערת של המוצר עצמו",module,Magento_Catalog
 "Parent Product Thumbnail","התמונה הממוזערת של מוצר האב",module,Magento_Catalog
@@ -1642,7 +1641,7 @@ Category,קטגוריה,module,Magento_Catalog
 "SKU length should be %1 characters maximum.","אורך המק""ט צריך להיות עד %1 תווים.",module,Magento_Catalog
 "Please enter a valid number in this field.","נא הזן מספר חוקי בשדה זה.",module,Magento_Catalog
 "We found a duplicate website, tier price, customer group and quantity.","מצאנו אתר כפול, מחיר כמותי, קבוצת לקוחות וכמות.",module,Magento_Catalog
-"Percentage value must be a number between 0 and 100.","Percentage value must be a number between 0 and 100.",module,Magento_Catalog
+"Percentage value must be a number between 0 and 100.","ערך באחוזים חייב להיות מספר בין 0 ל- 100.",module,Magento_Catalog
 "Invalid option id %1","מזהה אפשרות %1 לא חוקי",module,Magento_Catalog
 "Can not create attribute set based on non product attribute set.","אין אפשרות ליצור קבוצת תכונות בהתבסס על מוצרים ללא קבוצת תכונות.",module,Magento_Catalog
 "Can not create attribute set based on not existing attribute set","אין אפשרות ליצור קבוצת תכונות בהתבסס על קבוצת תכונות שלא קיימת",module,Magento_Catalog
@@ -1689,17 +1688,17 @@ px.,פיקסלים.,module,Magento_Catalog
 "The file is empty. Please choose another one","הקובץ ריק. אנא בחר קובץ אחר",module,Magento_Catalog
 "Some of the selected item options are not currently available.","חלק מאפשריות הפריט שבחרת לא זמינים כרגע.",module,Magento_Catalog
 "The text is too long.","הטקסט ארוך מדי.",module,Magento_Catalog
-"Invalid attribute %fieldName = %fieldValue.","Invalid attribute %fieldName = %fieldValue.",module,Magento_Catalog
-"Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId.","Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId.",module,Magento_Catalog
-"Invalid attribute Cost = %cost. Row ID: SKU = %SKU, Store ID: %storeId.","Invalid attribute Cost = %cost. Row ID: SKU = %SKU, Store ID: %storeId.",module,Magento_Catalog
+"Invalid attribute %fieldName = %fieldValue.","תכונה לא חוקית %fieldName = %fieldValue.",module,Magento_Catalog
+"Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId.","החנות המבוקשת לא נמצאה. מזהה שורה: SKU = %SKU, חנות מזהה: %storeId.",module,Magento_Catalog
+"Invalid attribute Cost = %cost. Row ID: SKU = %SKU, Store ID: %storeId.","תכונה לא חוקית עבור מחיר = %cost. מזהה שורה: SKU = %SKU, חנות מזהה: %storeId.",module,Magento_Catalog
 "Could not save Prices.","לא היתה אפשרות לשמור את המחירים.",module,Magento_Catalog
 "Could not delete Prices","לא היתה אפשרות למחוק את המחירים",module,Magento_Catalog
-"Requested product doesn't exist. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Requested product doesn't exist. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.",module,Magento_Catalog
+"Requested product doesn't exist. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","המוצר המבוקש אינו קיים. מזהה שורה: SKU = %SKU, חנות מזהה: %storeId, המחיר של: %priceFrom, מחיר: %priceTo.",module,Magento_Catalog
 "Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Requested store is not found. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.",module,Magento_Catalog
 "Invalid attribute %label = %priceTo. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Invalid attribute %label = %priceTo. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.",module,Magento_Catalog
 "Invalid attribute Price = %price. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.","Invalid attribute Price = %price. Row ID: SKU = %SKU, Store ID: %storeId, Price From: %priceFrom, Price To: %priceTo.",module,Magento_Catalog
-"Could not save Tier Prices","Could not save Tier Prices",module,Magento_Catalog
-"Could not replace Tier Prices","Could not replace Tier Prices",module,Magento_Catalog
+"Could not save Tier Prices","לא ניתן לשמור את קבוצת המחירים",module,Magento_Catalog
+"Could not replace Tier Prices","לא ניתן להחליף את קבוצת המחירים",module,Magento_Catalog
 "Could not delete Tier Prices","Could not delete Tier Prices",module,Magento_Catalog
 "Invalid attribute SKU = %SKU. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Invalid attribute SKU = %SKU. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.",module,Magento_Catalog
 "Invalid attribute Price = %price. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.","Invalid attribute Price = %price. Row ID: SKU = %SKU, Website ID: %websiteId, Customer Group: %customerGroup, Quantity: %qty.",module,Magento_Catalog
@@ -2083,8 +2082,8 @@ Disable,השבת,module,Magento_Catalog
 "Update attributes","עדכן תכונות",module,Magento_Catalog
 none,"אף אחד",module,Magento_Catalog
 Overview,"סקירה כללית",module,Magento_Catalog
-"Skip to the end of the images gallery","Skip to the end of the images gallery",module,Magento_Catalog
-"Skip to the beginning of the images gallery","Skip to the beginning of the images gallery",module,Magento_Catalog
+"Skip to the end of the images gallery","לדלג לסוף של גלריית תמונות",module,Magento_Catalog
+"Skip to the beginning of the images gallery","לדלג להתחלה של גלריית תמונות",module,Magento_Catalog
 Details,פרטים,module,Magento_Catalog
 "Edit Event","ערוך אירוע",module,Magento_CatalogEvent
 "Add Event","הוסף אירוע",module,Magento_CatalogEvent
@@ -2579,9 +2578,9 @@ Checkout,קופה,module,Magento_Checkout
 "Something went wrong while processing your order. Please try again later.","משהו השתבש בעת עיבוד הזמנתך. אנא נסה שוב מאוחר יותר.",module,Magento_Checkout
 "%1 doesn't extend \Magento\Checkout\CustomerData\ItemInterface","%1. אינו יורש מ-\Magento\Checkout\CustomerData\ItemInterface",module,Magento_Checkout
 "Payment Method","שיטת תשלום",module,Magento_Checkout
-"Payment Page","Payment Page",module,Magento_Checkout
+"Payment Page","עמוד תשלום",module,Magento_Checkout
 "We can't find the product.","לא ניתן למצוא את המוצר.",module,Magento_Checkout
-"We found an invalid request for adding product to quote.","We found an invalid request for adding product to quote.",module,Magento_Checkout
+"We found an invalid request for adding product to quote.","מצאנו כמות לא חוקית למשלוח עבור פריט ""%1"".",module,Magento_Checkout
 "The product does not exist.","המוצר אינו קיים.",module,Magento_Checkout
 "We don't have some of the products you want.","אין לנו חלק מהמוצרים שרצית.",module,Magento_Checkout
 "We don't have as many of some products as you want.","אין לנו חלק מהכמויות של מהמוצרים שרצית.",module,Magento_Checkout
@@ -2590,7 +2589,7 @@ Checkout,קופה,module,Magento_Checkout
 "This quote item does not exist.","פריט הצעת מחיר זה אינו קיים.",module,Magento_Checkout
 "Display number of items in cart","הצג כמות פריטים בעגלה",module,Magento_Checkout
 "Display item quantities","הצג כמויות של פריט",module,Magento_Checkout
-"An error occurred on the server. Please try to place the order again.","An error occurred on the server. Please try to place the order again.",module,Magento_Checkout
+"An error occurred on the server. Please try to place the order again.","אירעה שגיאה בעת שמירה. נא סקור את דוח השגיאות.",module,Magento_Checkout
 "Shipping address is not set","כתובת למשלוח אינה מוגדרת",module,Magento_Checkout
 "Unable to save shipping information. Please check input data.","לא ניתן לשמור את פרטי המשלוח. אנא בדוק את הפרטים שהזנת.",module,Magento_Checkout
 "Carrier with such method not found: %1, %2","מוביל עם שיטה כזו לא נמצא: %1, %2",module,Magento_Checkout
@@ -2687,7 +2686,7 @@ edit,עריכה,module,Magento_Checkout
 Next,הבא,module,Magento_Checkout
 "Sorry, no quotes are available for this order at this time","מצטערים, אין הצעות מחיר זמינות עבור הזמנה זו בזמן הזה",module,Magento_Checkout
 "Order Summary","סיכום הזמנה",module,Magento_Checkout
-"View and Edit Cart","View and Edit Cart",module,Magento_Checkout
+"View and Edit Cart","לצפייה ועריכה של סל קניות",module,Magento_Checkout
 "View Details","הצגת פרטים",module,Magento_Checkout
 "Provided Zip/Postal Code seems to be invalid.","המיקוד שסופק נראה לא תקין.",module,Magento_Checkout
 Example:,דוגמה:,module,Magento_Checkout
@@ -2705,13 +2704,13 @@ Shipping,משלוח,module,Magento_Checkout
 "Maximum Number of Items to Display in Order Summary","מספר מירבי של פריטים לתצוגה בסיכום הזמנה",module,Magento_Checkout
 "Quote Lifetime (days)","הצעה פגה תוקף (בימים)",module,Magento_Checkout
 "After Adding a Product Redirect to Shopping Cart","לאחר הוספת מוצר הפנה לעגלת קניות",module,Magento_Checkout
-"Number of Items to Display Pager","Number of Items to Display Pager",module,Magento_Checkout
+"Number of Items to Display Pager","מספר הפריטים לתצוגה",module,Magento_Checkout
 "My Cart Link","קישור לעגלה שלי",module,Magento_Checkout
 "Display Cart Summary","הצג סיכום עגלה",module,Magento_Checkout
 "Shopping Cart Sidebar","סרגל צידי של עגלת הקניות",module,Magento_Checkout
 "Display Shopping Cart Sidebar","הצג סרגל צידי בעגלת הקניות",module,Magento_Checkout
-"Number of Items to Display Scrollbar","Number of Items to Display Scrollbar",module,Magento_Checkout
-"Maximum Number of Items to Display","Maximum Number of Items to Display",module,Magento_Checkout
+"Number of Items to Display Scrollbar","מספר הפריטים כדי לגלול",module,Magento_Checkout
+"Maximum Number of Items to Display","מספר מקסימלי של פריטים להציג",module,Magento_Checkout
 "Payment Failed Emails","דואר אלקטרוני עבור תשלום שנכשל",module,Magento_Checkout
 "Payment Failed Email Sender","התשלום נכשל של שולח הדואר האלקטרוני",module,Magento_Checkout
 "Payment Failed Email Receiver","התשלום נכשל של מקבל הדואר האלקטרוני",module,Magento_Checkout
@@ -2728,6 +2727,9 @@ Payment,תשלום,module,Magento_Checkout
 "We received your order!","קיבלנו את ההזמנה שלך!",module,Magento_Checkout
 "Thank you for your purchase!","תודה על הרכישה!",module,Magento_Checkout
 "Go to Checkout","מעבר לתשלום",module,Magento_Checkout
+"View and edit cart","לצפייה ועריכה של סל קניות",module,Magento_Checkout
+"Item in Cart","פריט בסל",module,Magento_Checkout
+"Items in Cart","פריטים בסל",module,Magento_Checkout
 "Terms and Conditions","תנאי שימוש",module,Magento_CheckoutAgreements
 "Add New Condition","הוסף תנאי חדש",module,Magento_CheckoutAgreements
 "Save Condition","שמור תנאי",module,Magento_CheckoutAgreements
@@ -6311,6 +6313,7 @@ Partners,שותפים,module,Magento_Marketplace
 "Read More","קרא עוד",module,Magento_Marketplace
 "Partner Page","עמוד שותף",module,Magento_Marketplace
 "No partners were found","לא נמצאו שותפים",module,Magento_Marketplace
+"Find Partners & Extensions","מצא שותפים ותוספים",module,Magento_Marketplace
 Synchronize,סינכון,module,Magento_MediaStorage
 "Synchronizing %1 to %2","סינכרון %1 ל %2",module,Magento_MediaStorage
 Synchronizing...,מסנכרן...,module,Magento_MediaStorage
