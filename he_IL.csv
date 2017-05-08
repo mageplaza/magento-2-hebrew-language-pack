@@ -413,7 +413,7 @@ Shipping,משלוח,module,Magento_Backend
 "User Name","שם משתמש",module,Magento_Backend
 "First Name","שם פרטי",module,Magento_Backend
 "Last Name","שם משפחה",module,Magento_Backend
-Email,דואר,module,Magento_Backend
+Email,"דואר אלקטרוני",module,Magento_Backend
 "User Email","דוא״ל של משתמש",module,Magento_Backend
 "New Password","סיסמה חדשה",module,Magento_Backend
 "Password Confirmation","אמת סיסמה",module,Magento_Backend
@@ -510,7 +510,7 @@ To,ל-,module,Magento_Backend
 Export,ייצוא,module,Magento_Backend
 "Please correct the column format and try again.","נא תקן את פורמט העמודה ונסה שוב.",module,Magento_Backend
 "Please select items.","אנא בחר פריטים.",module,Magento_Backend
-Submit,שלח,module,Magento_Backend
+Submit,שליחה,module,Magento_Backend
 "Unknown block type","סוג בלוק לא ידוע",module,Magento_Backend
 "Please correct the tab configuration and try again. Tab Id should be not empty","אנא תקן את ההגדרות של הלשונית ונסה שוב. המזהה של הלשונית לא יכול להיות ריק",module,Magento_Backend
 "Please correct the tab configuration and try again.","נא לתקן את הקונפיגורציה של הלשונית ונסה שוב.",module,Magento_Backend
@@ -1437,7 +1437,7 @@ Websites,אתרים,module,Magento_Catalog
 "There are no customers for this alert.","אין לקוחות עבור התראה זו.",module,Magento_Catalog
 "First Name","שם פרטי",module,Magento_Catalog
 "Last Name","שם משפחה",module,Magento_Catalog
-Email,דואר,module,Magento_Catalog
+Email,"דואר אלקטרוני",module,Magento_Catalog
 "Subscribe Date","תאריך הצטרפות כמנוי",module,Magento_Catalog
 "Last Notified","הודעה אחרונה",module,Magento_Catalog
 "Send Count","מונה שליחות",module,Magento_Catalog
@@ -1931,7 +1931,7 @@ Loading...,טוען...,module,Magento_Catalog
 "* Required Fields","* שדות חובה",module,Magento_Catalog
 Availability,זמינות,module,Magento_Catalog
 "Warning message","הודעת אזהרה",module,Magento_Catalog
-Submit,שלח,module,Magento_Catalog
+Submit,שליחה,module,Magento_Catalog
 "We don't recognize or support this file extension type.","איננו מזהים או תומכים בסוג זה של סיומת קובץ.",module,Magento_Catalog
 "Configure Product","הגדרת המוצר",module,Magento_Catalog
 OK,אישור,module,Magento_Catalog
@@ -2610,8 +2610,8 @@ Error!,שגיאה!,module,Magento_Checkout
 Message,הודעה,module,Magento_Checkout
 "<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">Print receipt</a>","<a href=""%1"" onclick=""this.target='_blank'"" class=""print"">הדפס קבלה</a>",module,Magento_Checkout
 "Apply Discount Code","שימוש בקוד הנחה",module,Magento_Checkout
-"Enter discount code","הזן קוד הנחה",module,Magento_Checkout
-"Apply Discount",ממש,module,Magento_Checkout
+"Enter discount code","הזינו קוד הנחה",module,Magento_Checkout
+"Apply Discount",מימוש,module,Magento_Checkout
 "Cancel Coupon","בטל קופון",module,Magento_Checkout
 "Shopping Cart Items","פריטים בעגלת הקניות",module,Magento_Checkout
 Item,פריט,module,Magento_Checkout
@@ -2619,9 +2619,9 @@ Price,מחיר,module,Magento_Checkout
 Qty,כמות,module,Magento_Checkout
 Subtotal,"סכום ביניים",module,Magento_Checkout
 "Continue Shopping","המשך בקניות",module,Magento_Checkout
-"Clear Shopping Cart","נקה עגלת קניות",module,Magento_Checkout
-"Update Shopping Cart","עדכן עגלת קניות",module,Magento_Checkout
-"Update Cart","עדכן עגלת קניות",module,Magento_Checkout
+"Clear Shopping Cart","ניקוי עגלת קניות",module,Magento_Checkout
+"Update Shopping Cart","רענון עגלת קניות",module,Magento_Checkout
+"Update Cart","עדכון עגלת קניות",module,Magento_Checkout
 "See price before order confirmation.","ראה מחיר לפני אישור ההזמנה.",module,Magento_Checkout
 "What's this?","מה זה?",module,Magento_Checkout
 "Edit item parameters","עריכת אפשרויות הפריט",module,Magento_Checkout
@@ -2634,7 +2634,7 @@ Edit,ערוך,module,Magento_Checkout
 "Excl. Tax","למעט מס",module,Magento_Checkout
 Loading...,טוען...,module,Magento_Checkout
 "Order #","# הזמנה",module,Magento_Checkout
-"Proceed to Checkout","המשך לקופה",module,Magento_Checkout
+"Proceed to Checkout","המשך לתשלום",module,Magento_Checkout
 "Product Name","שם מוצר",module,Magento_Checkout
 "Incl. Tax","כולל מס",module,Magento_Checkout
 "Your order number is: %1.","מספר ההזמנה שלך: %1.",module,Magento_Checkout
@@ -3268,7 +3268,7 @@ Comparable,"ניתן להשוואה",module,Magento_ConfigurableProductStaging
 "We can't process your request right now. Sorry, that's all we know.","איננו יכולים לעבד את הבקשה שלך עכשיו. מצטערים, זה כל מה שידוע לנו.",module,Magento_Contact
 "* Required Fields","* שדות חובה",module,Magento_Contact
 "Write Us","כתבו לנו",module,Magento_Contact
-"Jot us a note and we’ll get back to you as quickly as possible.","רשום לנו הודעה ואנחנו נחזור אליך בהקדם האפשרי.",module,Magento_Contact
+"Jot us a note and we’ll get back to you as quickly as possible.","שלחו לנו הודעה באמצעות טופס זה ואנו נחזור אליכם בהקדם האפשרי.",module,Magento_Contact
 Name,שם,module,Magento_Contact
 Email,"דואר אלקטרוני",module,Magento_Contact
 "Phone Number","מספר טלפון",module,Magento_Contact
@@ -3366,7 +3366,7 @@ Alphanumeric,אלפאנומרי,module,Magento_CustomAttributeManagement
 "Numeric Only","מספריים בלבד",module,Magento_CustomAttributeManagement
 "Alpha Only","אלפא בלבד",module,Magento_CustomAttributeManagement
 URL,URL,module,Magento_CustomAttributeManagement
-Email,דואר,module,Magento_CustomAttributeManagement
+Email,"דואר אלקטרוני",module,Magento_CustomAttributeManagement
 "Strip HTML Tags","רצועת תגי ה-HTML",module,Magento_CustomAttributeManagement
 "Escape HTML Entities","לברוח ישויות HTML",module,Magento_CustomAttributeManagement
 "Normalize Date","לנרמל את התאריך",module,Magento_CustomAttributeManagement
@@ -3556,7 +3556,7 @@ Customers,לקוחות,module,Magento_Customer
 "Please enter a password with at most %1 characters.","אנא הזן סיסמה המוגבלת לכל היותר ב- %1 תווים.",module,Magento_Customer
 "Please enter a password with at least %1 characters.","אנא הזן סיסמה המוגבלת לכל הפחות ב- %1 תווים.",module,Magento_Customer
 "The password can't begin or end with a space.","הסיסמה אינה יכוהל להתחיל או להסתיים ברווח.",module,Magento_Customer
-"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.",module,Magento_Customer
+"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","מספר סוגי תווים מינימילי המותרים בסיסמה הינו %1. סוגי תווים: אותיות קטנות, אותיות גדולות, ספרות, תווים מיוחדים.",module,Magento_Customer
 "This customer already exists in this store.","לקוח זה כבר קיים בחנות זו.",module,Magento_Customer
 "A customer with the same email already exists in an associated website.","לקוח עם דואר אלקטרוני זהה כבר קיים באתר האינטרנט המשויך.",module,Magento_Customer
 "%fieldName is a required field.","%fieldName הוא שדה נדרש.",module,Magento_Customer
@@ -3723,7 +3723,7 @@ Save,שמור,module,Magento_Customer
 "Please enter your email address below to receive a password reset link.","נא להזין את כתובת המייל שלך כדי לקבל קישור לאיפוס סיסמה.",module,Magento_Customer
 "Reset My Password","אפס את הסיסמה שלי",module,Magento_Customer
 "Registered Customers","לקוחות רשומים",module,Magento_Customer
-"If you have an account, sign in with your email address.","אם אתה לקוח רשום, היכנס באמצעות כתובת הדוא""ל שלך.",module,Magento_Customer
+"If you have an account, sign in with your email address.","לקוחות רשומים, ניתן להכנס באמצעות כתובת הדוא""ל שלך.",module,Magento_Customer
 Password,סיסמה,module,Magento_Customer
 "Forgot Your Password?","שכחת סיסמה?",module,Magento_Customer
 "Subscription option","אפשרות מינוי",module,Magento_Customer
@@ -3732,7 +3732,7 @@ Password,סיסמה,module,Magento_Customer
 "Address Information","מידע אודות כתובת",module,Magento_Customer
 "Sign-in Information","פרטי התחברות",module,Magento_Customer
 "Confirm Password","אימות סיסמה",module,Magento_Customer
-"Create an Account","צור חשבון",module,Magento_Customer
+"Create an Account","יצירת חשבון",module,Magento_Customer
 "Set a New Password","הגדר סיסמה חדשה",module,Magento_Customer
 "You have signed out and will go to our homepage in 5 seconds.","תהליך התנתקות. אתה תועבר לדף הבית בעוד 5 שניות.",module,Magento_Customer
 "New Customers","לקוחות חדשים",module,Magento_Customer
@@ -4081,7 +4081,7 @@ Country,ארץ,module,Magento_CustomerCustomAttributes
 "Change Email","שנה כתובת דוא""ל",module,Magento_CustomerCustomAttributes
 "Change Password","שינוי סיסמה",module,Magento_CustomerCustomAttributes
 "Change Email and Password","שינוי דואר אלקטרוני וסיסמה",module,Magento_CustomerCustomAttributes
-Email,דואר,module,Magento_CustomerCustomAttributes
+Email,"דואר אלקטרוני",module,Magento_CustomerCustomAttributes
 "Current Password","סיסמה נוכחית",module,Magento_CustomerCustomAttributes
 "New Password","סיסמה חדשה",module,Magento_CustomerCustomAttributes
 "Password Strength","חוזק סיסמה",module,Magento_CustomerCustomAttributes
@@ -4266,7 +4266,7 @@ Tax,מס,module,Magento_CustomerSegment
 CSV,CSV,module,Magento_CustomerSegment
 "Excel XML","Excel XML",module,Magento_CustomerSegment
 Name,שם,module,Magento_CustomerSegment
-Email,דואר,module,Magento_CustomerSegment
+Email,"דואר אלקטרוני",module,Magento_CustomerSegment
 Group,Group,module,Magento_CustomerSegment
 Phone,טלפון,module,Magento_CustomerSegment
 ZIP,ZIP,module,Magento_CustomerSegment
@@ -4628,7 +4628,7 @@ System,מערכת,module,Magento_Eav
 None,ללא,module,Magento_Eav
 "Decimal Number","מספר עשרוני",module,Magento_Eav
 "Integer Number","מספר שלם",module,Magento_Eav
-Email,דואר,module,Magento_Eav
+Email,"דואר אלקטרוני",module,Magento_Eav
 URL,URL,module,Magento_Eav
 Letters,אותיות,module,Magento_Eav
 "Letters (a-z, A-Z) or Numbers (0-9)","אותיות (a-z, A-Z) או מספרים (0-9)",module,Magento_Eav
@@ -5477,7 +5477,7 @@ Edit,ערוך,module,Magento_GiftRegistry
 Remove,הסר,module,Magento_GiftRegistry
 "First Name","שם פרטי",module,Magento_GiftRegistry
 Name,שם,module,Magento_GiftRegistry
-Email,דואר,module,Magento_GiftRegistry
+Email,"דואר אלקטרוני",module,Magento_GiftRegistry
 "* Required Fields","* שדות חובה",module,Magento_GiftRegistry
 Sender,Sender,module,Magento_GiftRegistry
 Invitee,Invitee,module,Magento_GiftRegistry
@@ -6080,7 +6080,7 @@ Discarded,Discarded,module,Magento_Invitation
 "Invitation Information","Invitation Information",module,Magento_Invitation
 "Send At","Send At",module,Magento_Invitation
 "Invitation Message","הודעת הזמנה",module,Magento_Invitation
-Email,דואר,module,Magento_Invitation
+Email,"דואר אלקטרוני",module,Magento_Invitation
 Status,סטטוס,module,Magento_Invitation
 Website,אתר,module,Magento_Invitation
 "Store View","תצוגת חנות",module,Magento_Invitation
@@ -6230,7 +6230,7 @@ New,חדש,module,Magento_Logging
 Apply,החל,module,Magento_Logging
 Reorder,Reorder,module,Magento_Logging
 Print,Print,module,Magento_Logging
-Email,דואר,module,Magento_Logging
+Email,"דואר אלקטרוני",module,Magento_Logging
 Run,Run,module,Magento_Logging
 Rollback,"חזרה למצב קודם",module,Magento_Logging
 "Reindex Process","Reindex Process",module,Magento_Logging
@@ -6381,7 +6381,7 @@ Edit,ערוך,module,Magento_MultipleLocationInventory
 ID,ID,module,Magento_MultipleLocationInventory
 Name,שם,module,Magento_MultipleLocationInventory
 "Contact Name","Contact Name",module,Magento_MultipleLocationInventory
-Email,דואר,module,Magento_MultipleLocationInventory
+Email,"דואר אלקטרוני",module,Magento_MultipleLocationInventory
 Country,ארץ,module,Magento_MultipleLocationInventory
 State/Province,מדינה/מחוז,module,Magento_MultipleLocationInventory
 City,עיר,module,Magento_MultipleLocationInventory
@@ -6777,7 +6777,7 @@ Unsubscribe,Unsubscribe,module,Magento_Newsletter
 Delete,מחק,module,Magento_Newsletter
 CSV,CSV,module,Magento_Newsletter
 "Excel XML","Excel XML",module,Magento_Newsletter
-Email,דואר,module,Magento_Newsletter
+Email,"דואר אלקטרוני",module,Magento_Newsletter
 Type,סוג,module,Magento_Newsletter
 Guest,אורח,module,Magento_Newsletter
 Customer,לקוח,module,Magento_Newsletter
@@ -7767,7 +7767,7 @@ Carts,עגלות,module,Magento_Quote
 Conditions,תנאים,module,Magento_Reminder
 "You need to set at least one condition for this rule to work.","אתה צריך להגדיר תנאי אחד לפחות עבור כלל זה להפעלה.",module,Magento_Reminder
 ID,ID,module,Magento_Reminder
-Email,דואר,module,Magento_Reminder
+Email,"דואר אלקטרוני",module,Magento_Reminder
 "Matched At","הותאם ב",module,Magento_Reminder
 "Thread Active","שרשור פעיל",module,Magento_Reminder
 No,לא,module,Magento_Reminder
@@ -7996,7 +7996,7 @@ Carrier/Method,Carrier/Method,module,Magento_Reports
 Rate,תעריף,module,Magento_Reports
 "Tax Amount","סכום המס",module,Magento_Reports
 "Abandoned carts","Abandoned carts",module,Magento_Reports
-Email,דואר,module,Magento_Reports
+Email,"דואר אלקטרוני",module,Magento_Reports
 Products,מוצרים,module,Magento_Reports
 Quantity,כמות,module,Magento_Reports
 "Applied Coupon","Applied Coupon",module,Magento_Reports
@@ -8711,12 +8711,12 @@ Sub-items,Sub-items,module,Magento_Rma
 "Quantity To Return","Quantity To Return",module,Magento_Rma
 "Remaining Quantity:","Remaining Quantity:",module,Magento_Rma
 "New Return for Order %1","New Return for Order %1",module,Magento_Rma
-Email,דואר,module,Magento_Rma
+Email,"דואר אלקטרוני",module,Magento_Rma
 "Return Items Information","Return Items Information",module,Magento_Rma
 "Add Item To Return","Add Item To Return",module,Magento_Rma
 Comments,Comments,module,Magento_Rma
 Save,שמור,module,Magento_Rma
-Submit,שלח,module,Magento_Rma
+Submit,שליחה,module,Magento_Rma
 Back,חזור,module,Magento_Rma
 "Return #","Return #",module,Magento_Rma
 Date,Date,module,Magento_Rma
@@ -8896,7 +8896,7 @@ Quantity,כמות,module,Magento_Sales
 "Update Changes","עדכון שינויים",module,Magento_Sales
 "Shopping Cart","עגלת קניות",module,Magento_Sales
 "Are you sure you want to delete all items from shopping cart?","האם אתה בטוח שברצונך למחוק את כל הפריטים שבעגלת הקניות?",module,Magento_Sales
-"Clear Shopping Cart","נקה עגלת קניות",module,Magento_Sales
+"Clear Shopping Cart","ניקוי עגלת קניות",module,Magento_Sales
 "Products in Comparison List","מוצרים ברשימת ההשוואה",module,Magento_Sales
 "Recently Compared Products","מוצרים שהושוו לאחרונה",module,Magento_Sales
 "Recently Viewed Products","מוצרים שנצפו לאחרונה",module,Magento_Sales
@@ -9277,7 +9277,7 @@ title,title,module,Magento_Sales
 City,עיר,module,Magento_Sales
 Company,חברה,module,Magento_Sales
 Country,Country,module,Magento_Sales
-Email,דואר,module,Magento_Sales
+Email,"דואר אלקטרוני",module,Magento_Sales
 "First Name","שם פרטי",module,Magento_Sales
 "Last Name","שם משפחה",module,Magento_Sales
 State/Province,מדינה/מחוז,module,Magento_Sales
@@ -9675,7 +9675,7 @@ Refunded,Refunded,module,Magento_SalesArchive
 "Billing Address","כתובת חיוב",module,Magento_SalesArchive
 "Shipping Address","כתובת למשלוח",module,Magento_SalesArchive
 "Customer Name","Customer Name",module,Magento_SalesArchive
-Email,דואר,module,Magento_SalesArchive
+Email,"דואר אלקטרוני",module,Magento_SalesArchive
 "Customer Group","Customer Group",module,Magento_SalesArchive
 "Payment Method","שיטת התשלום",module,Magento_SalesArchive
 "Shipping Information","פרטי משלוח",module,Magento_SalesArchive
@@ -9838,7 +9838,7 @@ Inactive,"לא פעיל",module,Magento_SalesRule
 "%1 Cart Price Rules based on ""%2"" attribute have been disabled.","%1 Cart Price Rules based on ""%2"" attribute have been disabled.",module,Magento_SalesRule
 "Apply Discount Code","שימוש בקוד הנחה",module,Magento_SalesRule
 "Enter discount code","Enter discount code",module,Magento_SalesRule
-"Apply Discount",ממש,module,Magento_SalesRule
+"Apply Discount",מימוש,module,Magento_SalesRule
 "Cancel coupon","Cancel coupon",module,Magento_SalesRule
 "Your coupon was successfully removed.","Your coupon was successfully removed.",module,Magento_SalesRule
 "Your coupon was successfully applied.","Your coupon was successfully applied.",module,Magento_SalesRule
@@ -10206,7 +10206,7 @@ Exception.,חריגה.,module,Magento_SendFriend
 "Remove Recipent","הסרת נמען",module,Magento_SendFriend
 Remove,הסר,module,Magento_SendFriend
 Name,שם,module,Magento_SendFriend
-Email,דואר,module,Magento_SendFriend
+Email,"דואר אלקטרוני",module,Magento_SendFriend
 "* Required Fields","* שדות חובה",module,Magento_SendFriend
 Sender,שולח,module,Magento_SendFriend
 Message,הודעה,module,Magento_SendFriend
@@ -10775,7 +10775,7 @@ SKU,מק''ט,module,Magento_Support
 "URL Key","URL Key",module,Magento_Support
 Website,אתר,module,Magento_Support
 "Duplicate Users By Email","Duplicate Users By Email",module,Magento_Support
-Email,דואר,module,Magento_Support
+Email,"דואר אלקטרוני",module,Magento_Support
 Type,סוג,module,Magento_Support
 Parent,אב,module,Magento_Support
 "Adminhtml Themes List","Adminhtml Themes List",module,Magento_Support
@@ -11479,8 +11479,8 @@ Keyword,"מילת מפתח",module,Magento_Ui
 "Please enter a valid email address (Ex: johndoe@domain.com).","הקלד כתובת אימייל תקינה (לדוגמא: johndoe@domain.com).",module,Magento_Ui
 "Please enter 6 or more characters. Leading and trailing spaces will be ignored.","Please enter 6 or more characters. Leading and trailing spaces will be ignored.",module,Magento_Ui
 "Please enter 7 or more characters, using both numeric and alphabetic.","נא להזין 7 תווים או יותר, יש לכלול אותיות ומספרים.",module,Magento_Ui
-"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.",module,Magento_Ui
-"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.",module,Magento_Ui
+"Minimum length of this field must be equal or greater than %1 symbols. Leading and trailing spaces will be ignored.","אורך מינימלי של שדה זה חייב להיות שווה או גדול מ- %1 תווים. ללא רווחים.",module,Magento_Ui
+"Minimum of different classes of characters in password is %1. Classes of characters: Lower Case, Upper Case, Digits, Special Characters.","מספר סוגי תווים מינימילי המותרים בסיסמה הינו %1. סוגי תווים: אותיות קטנות, אותיות גדולות, ספרות, תווים מיוחדים.",module,Magento_Ui
 "Please enter a valid URL. Protocol is required (http://, https:// or ftp://).","אנא הזן כתובת URL חוקית. פרוטוקול נדרש (http://, https:// או ftp: / /).",module,Magento_Ui
 "Please enter a valid URL. For example http://www.example.com or www.example.com.","Please enter a valid URL. For example http://www.example.com or www.example.com.",module,Magento_Ui
 "Please enter a valid XML-identifier (Ex: something_1, block5, id-4).","Please enter a valid XML-identifier (Ex: something_1, block5, id-4).",module,Magento_Ui
@@ -11709,7 +11709,7 @@ Roles,תפקידים,module,Magento_User
 "User Name","שם משתמש",module,Magento_User
 "First Name","שם פרטי",module,Magento_User
 "Last Name","שם משפחה",module,Magento_User
-Email,דואר,module,Magento_User
+Email,"דואר אלקטרוני",module,Magento_User
 Status,סטטוס,module,Magento_User
 Active,פעיל,module,Magento_User
 Inactive,"לא פעיל",module,Magento_User
