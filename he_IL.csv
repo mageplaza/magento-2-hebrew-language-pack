@@ -3723,7 +3723,7 @@ Save,שמור,module,Magento_Customer
 "Please enter your email address below to receive a password reset link.","נא להזין את כתובת המייל שלך כדי לקבל קישור לאיפוס סיסמה.",module,Magento_Customer
 "Reset My Password","אפס את הסיסמה שלי",module,Magento_Customer
 "Registered Customers","לקוחות רשומים",module,Magento_Customer
-"If you have an account, sign in with your email address.","לקוחות רשומים, ניתן להכנס באמצעות כתובת הדוא""ל שלך.",module,Magento_Customer
+"If you have an account, sign in with your email address.","לקוחות רשומים, ניתן להכנס באמצעות כתובת דואר אלקטרוני.",module,Magento_Customer
 Password,סיסמה,module,Magento_Customer
 "Forgot Your Password?","שכחת סיסמה?",module,Magento_Customer
 "Subscription option","אפשרות מינוי",module,Magento_Customer
@@ -8641,7 +8641,7 @@ Pending,ממתינה,module,Magento_Rma
 Rejected,נדחה,module,Magento_Rma
 "Partially Rejected","נדחו חלקית",module,Magento_Rma
 Denied,Denied,module,Magento_Rma
-Closed,Closed,module,Magento_Rma
+Closed,נסגרה,module,Magento_Rma
 "Processed and Closed","Processed and Closed",module,Magento_Rma
 "This is the wrong RMA item status.","This is the wrong RMA item status.",module,Magento_Rma
 "We received your Return request.","We received your Return request.",module,Magento_Rma
@@ -9311,7 +9311,7 @@ State/Province,מדינה/מחוז,module,Magento_Sales
 Processing,Processing,module,Magento_Sales
 "On Hold","On Hold",module,Magento_Sales
 Complete,הושלמה,module,Magento_Sales
-Closed,Closed,module,Magento_Sales
+Closed,נסגרה,module,Magento_Sales
 "Suspected Fraud","Suspected Fraud",module,Magento_Sales
 "Payment Review","Payment Review",module,Magento_Sales
 New,New,module,Magento_Sales
@@ -9444,7 +9444,7 @@ Comment,Comment,module,Magento_Sales
 "Parent Transaction ID","Parent Transaction ID",module,Magento_Sales
 "Order ID","Order ID",module,Magento_Sales
 "Transaction Type","Transaction Type",module,Magento_Sales
-"Is Closed","Is Closed",module,Magento_Sales
+"Is Closed",סגורה,module,Magento_Sales
 "Created At","Created At",module,Magento_Sales
 "Child Transactions","Child Transactions",module,Magento_Sales
 "Transaction Details","Transaction Details",module,Magento_Sales
@@ -9670,7 +9670,7 @@ Order,הזמנה,module,Magento_SalesArchive
 "Order Date","תאריך הזמנה",module,Magento_SalesArchive
 "Bill-to Name","שלח חיוב לשם",module,Magento_SalesArchive
 Status,סטטוס,module,Magento_SalesArchive
-Refunded,Refunded,module,Magento_SalesArchive
+Refunded,זוכה,module,Magento_SalesArchive
 "Order Status","סטטוס הזמנה",module,Magento_SalesArchive
 "Billing Address","כתובת חיוב",module,Magento_SalesArchive
 "Shipping Address","כתובת למשלוח",module,Magento_SalesArchive
@@ -11997,13 +11997,13 @@ Name,שם,module,Magento_Variable
 "No token found.","טוקן לא נמצא.",module,Magento_Vault
 "Wrong request.","בקשה שגוייה.",module,Magento_Vault
 "Deletion failure. Please try again.","מחיקה נכשלה. אנא נסה שוב.",module,Magento_Vault
-"Stored Payment Method was successfully removed","Stored Payment Method was successfully removed",module,Magento_Vault
-"Stored Payment Methods","Stored Payment Methods",module,Magento_Vault
+"Stored Payment Method was successfully removed","שיטת תשלום שמורה הוסרה בהצלחה",module,Magento_Vault
+"Stored Payment Methods","שיטות תשלום שמורות",module,Magento_Vault
 "No available payment tokens for specified order payment.","No available payment tokens for specified order payment.",module,Magento_Vault
 "Card Number","מספר כרטיס",module,Magento_Vault
 "Expiration Date","תאריך תפוגה",module,Magento_Vault
 Type,סוג,module,Magento_Vault
-"You have no stored payment methods.","You have no stored payment methods.",module,Magento_Vault
+"You have no stored payment methods.","אין לך שיטות תשלום שמורות.",module,Magento_Vault
 ending,סיום,module,Magento_Vault
 Actions,פעולות,module,Magento_Vault
 Delete,מחיקה,module,Magento_Vault
