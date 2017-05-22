@@ -1,19 +1,19 @@
 All,הכל,module,Magento_AdminGws
 None,ללא,module,Magento_AdminGws
 "Allowed Scopes","טווח נתונים אפשריים",module,Magento_AdminGws
-"You need more permissions to delete this item(s): %1.","אתה צריך יותר הרשאות למחוק את הפריטים: %1.",module,Magento_AdminGws
-"You need more permissions to apply some of the rule updates.","אתה צריך הרשאות כדי ליישם חלק מהעדכונים.",module,Magento_AdminGws
+"You need more permissions to delete this item(s): %1.","אתה צריך הרשאות נוספות כדי למחוק את הפריט(ים): %1.",module,Magento_AdminGws
+"You need more permissions to apply some of the rule updates.","אתה צריך הרשאות נוספות כדי ליישם חלק מהעדכונים.",module,Magento_AdminGws
 "Please assign this entity to a store view.","נא להקצות ישות זו לתצוגת חנות.",module,Magento_AdminGws
-"You can create orders only in an active store.","אתה יכול להתחיל הזמנה רק כאשר החנות פעילה.",module,Magento_AdminGws
+"You can create orders only in an active store.","אתה יכול ליצור הזמנה רק כאשר החנות פעילה.",module,Magento_AdminGws
 "Please assign this item to a store view.","נא להקצות פריט זה לתצוגת חנות.",module,Magento_AdminGws
 "You need more permissions to save this item.","נדרשת הרשאה גבוהה יותר לשמירת פריט זה.",module,Magento_AdminGws
 "You need more permissions to delete this item.","נדרשת הרשאה גבוהה יותר למחיקת פריט זה.",module,Magento_AdminGws
 "You need more permissions to view this item.","נדרשת הרשאה גבוהה יותר לצפייה בפריט זה.",module,Magento_AdminGws
 "Please specify at least one website or one store group.","נא ציין אתר אחד לפחות או קבוצת חנויות ספציפית.",module,Magento_AdminGws
-"You need more permissions to set All Scopes to a Role.","אתה צריך הרשאה יותר גבוהה כגי להגדיר תפקיד.",module,Magento_AdminGws
-"Incorrect website ID: %1","הid של אתר האינטרנט של שגוי: %1",module,Magento_AdminGws
+"You need more permissions to set All Scopes to a Role.","אתה צריך הרשאה יותר גבוהה כדי להגדיר תפקיד.",module,Magento_AdminGws
+"Incorrect website ID: %1","מזהה אתר שגוי: %1",module,Magento_AdminGws
 "You need more permissions to access website ""%1"".","אתה צריך הרשאה יותר גבוהה כדי לצפות באתר ""1%"".",module,Magento_AdminGws
-"Incorrect store ID: %1","ID חנות שגוי: %1",module,Magento_AdminGws
+"Incorrect store ID: %1","מזהה חנות שגוי: %1",module,Magento_AdminGws
 "You need more permissions to save this setting.","אתה צריך הרשאה יותר גבוהה על מנת לשמור את ההגדרות.",module,Magento_AdminGws
 "Role Scopes","טווחי תפקיד",module,Magento_AdminGws
 Custom,"מותאם אישית",module,Magento_AdminGws
