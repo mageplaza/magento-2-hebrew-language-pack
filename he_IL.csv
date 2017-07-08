@@ -274,36 +274,36 @@ Retry,"נסה שנית",module,Magento_AsynchronousOperations
 "'Action Details - #' .","'פרטי פעולה - #'.",module,Magento_AsynchronousOperations
 "%1 item(s) have been scheduled for update.""","%1 פריטים תוזמנו עבור עדכון.""",module,Magento_AsynchronousOperations
 "Bulk Actions Log","לוג פעולות מרובות",module,Magento_AsynchronousOperations
-"%1 item(s) are currently being updated.","%1 item(s) are currently being updated.",module,Magento_AsynchronousOperations
+"%1 item(s) are currently being updated.","%1 פריט(ים) מתעדכנ(ים) כעת.",module,Magento_AsynchronousOperations
 "Task ""%1"":","משימה ""%1"":",module,Magento_AsynchronousOperations
 "%1 item(s) have been scheduled for update.","%1 פריטים תוזמנו עבור עדכון.",module,Magento_AsynchronousOperations
-"%1 item(s) have been successfully updated.","%1 item(s) have been successfully updated.",module,Magento_AsynchronousOperations
-"%1 item(s) failed to update","%1 item(s) failed to update",module,Magento_AsynchronousOperations
+"%1 item(s) have been successfully updated.","%1 פריטים עודכנו בהצלחה.",module,Magento_AsynchronousOperations
+"%1 item(s) failed to update","%1 פריטים לא עודכנו",module,Magento_AsynchronousOperations
 Details,פרטים,module,Magento_AsynchronousOperations
 "View Details","הצגת פרטים",module,Magento_AsynchronousOperations
 Dismiss,לדחות,module,Magento_AsynchronousOperations
-"Pending, in queue...","Pending, in queue...",module,Magento_AsynchronousOperations
-"%1 items selected for mass update","%1 items selected for mass update",module,Magento_AsynchronousOperations
-", %1 successfully updated",", %1 successfully updated",module,Magento_AsynchronousOperations
-", %1 failed to update",", %1 failed to update",module,Magento_AsynchronousOperations
-"Something went wrong.","Something went wrong.",module,Magento_AsynchronousOperations
-"Action Log","Action Log",module,Magento_AsynchronousOperations
-"Bulk Actions","Bulk Actions",module,Magento_AsynchronousOperations
-"Days Saved in Log","Days Saved in Log",module,Magento_AsynchronousOperations
-"Description of Operation","Description of Operation",module,Magento_AsynchronousOperations
-Summary,Summary,module,Magento_AsynchronousOperations
-"Start Time","Start Time",module,Magento_AsynchronousOperations
+"Pending, in queue...","ממתין, בתור...",module,Magento_AsynchronousOperations
+"%1 items selected for mass update","%1 פריטים נבחרו לעדכון המוני",module,Magento_AsynchronousOperations
+", %1 successfully updated",", %1 עודכן בהצלחה",module,Magento_AsynchronousOperations
+", %1 failed to update",", %1 עדכונים נכשלו",module,Magento_AsynchronousOperations
+"Something went wrong.","משהו השתבש.",module,Magento_AsynchronousOperations
+"Action Log","יומן פעילות",module,Magento_AsynchronousOperations
+"Bulk Actions","פעולות גורפות",module,Magento_AsynchronousOperations
+"Days Saved in Log","ימים שנשמרו ביומן",module,Magento_AsynchronousOperations
+"Description of Operation","תיאור הפעולה",module,Magento_AsynchronousOperations
+Summary,סיכום,module,Magento_AsynchronousOperations
+"Start Time","שעת התחלה",module,Magento_AsynchronousOperations
 "Items to Retry","Items to Retry",module,Magento_AsynchronousOperations
-"To retry, select the items and click “Retry”.","To retry, select the items and click “Retry”.",module,Magento_AsynchronousOperations
-"Items That Can’t Be Updated.","Items That Can’t Be Updated.",module,Magento_AsynchronousOperations
-ID,ID,module,Magento_AsynchronousOperations
-Status,Status,module,Magento_AsynchronousOperations
-Action,Action,module,Magento_AsynchronousOperations
-"Meta Information","Meta Information",module,Magento_AsynchronousOperations
+"To retry, select the items and click “Retry”.","כדי לנסות שנית, בחר פריטים ולחץ על ""נסה שנית"".",module,Magento_AsynchronousOperations
+"Items That Can’t Be Updated.","פריטים שלא ניתן לעדכן.",module,Magento_AsynchronousOperations
+ID,מזהה,module,Magento_AsynchronousOperations
+Status,סטטוס,module,Magento_AsynchronousOperations
+Action,פעולה,module,Magento_AsynchronousOperations
+"Meta Information",מידע,module,Magento_AsynchronousOperations
 Error,שגיאה,module,Magento_AsynchronousOperations
-"Dismiss All Completed Tasks","Dismiss All Completed Tasks",module,Magento_AsynchronousOperations
-"Action Details - #","Action Details - #",module,Magento_AsynchronousOperations
-"Number of Records Affected","Number of Records Affected",module,Magento_AsynchronousOperations
+"Dismiss All Completed Tasks","העלם את כל המשימות שהושלמו",module,Magento_AsynchronousOperations
+"Action Details - #","פרטי פעולה - #",module,Magento_AsynchronousOperations
+"Number of Records Affected","מספר רשומות שהושפעו",module,Magento_AsynchronousOperations
 "We can't find the role for the user you wanted.","אנחנו לא מוצאים את התפקיד עבור משתמש שרצית.",module,Magento_Authorization
 "Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","אירע שיבוש במהלך הקומפילציה של רשימת המשאבים המותרים. פרטים נוספים ניתן למצוא ב-exceptions log.",module,Magento_Authorization
 "You created the order.","יצרת את ההזמנה.",module,Magento_Authorizenet
@@ -2947,9 +2947,9 @@ Action,פעולה,module,Magento_CmsStaging
 Identifier,מזהה,module,Magento_CmsStaging
 "Store View","תצוגת חנות",module,Magento_CmsStaging
 "Save as a New Update","שמירת עדכון חדש",module,Magento_CmsStaging
-"Move to Another Update","Move to Another Update",module,Magento_CmsStaging
+"Move to Another Update","העבר לעדכון אחר",module,Magento_CmsStaging
 "Delete the Update","למחוק את העדכון",module,Magento_CmsStaging
-"The block will be removed from the update and all scheduled changes will be lost.","The block will be removed from the update and all scheduled changes will be lost.",module,Magento_CmsStaging
+"The block will be removed from the update and all scheduled changes will be lost.","הבלוק יוסר מהעדכון וכל התזמונים יאבדו.",module,Magento_CmsStaging
 20,20,module,Magento_CmsStaging
 30,30,module,Magento_CmsStaging
 50,50,module,Magento_CmsStaging
@@ -6534,81 +6534,81 @@ Total,"סה""כ",module,Magento_Multishipping
 "Create Shipping Address","ליצור כתובת למשלוח",module,Magento_Multishipping
 "Data saving problem","שגיאה בשמירת המידע",module,Magento_Multishipping
 "We cannot open the overview page.","לא ניתן לפתוח עמוד סקירה.",module,Magento_Multishipping
-"Please agree to all Terms and Conditions before placing the order.","Please agree to all Terms and Conditions before placing the order.",module,Magento_Multishipping
-"Order place error","Order place error",module,Magento_Multishipping
-"Maximum qty allowed for Shipping to multiple addresses is %1","Maximum qty allowed for Shipping to multiple addresses is %1",module,Magento_Multishipping
+"Please agree to all Terms and Conditions before placing the order.","בבקשה הסכם לכלל תנאי השימוש לפני ביצוע ההזמנה.",module,Magento_Multishipping
+"Order place error","שגיאה בביצוע ההזמנה",module,Magento_Multishipping
+"Maximum qty allowed for Shipping to multiple addresses is %1","הכמות המרבית המותרת עבור משלוח לכתובות מרובות הוא %1",module,Magento_Multishipping
 "Please check shipping address information.","יש לבדוק את פרטי כתובת המשלוח.",module,Magento_Multishipping
 "Please check billing address information.","יש לבדוק את פרטי כתובת החיוב.",module,Magento_Multishipping
 "Please select shipping methods for all addresses.","נא לבחור שיטת משלוח עבור כל הכתובות.",module,Magento_Multishipping
 "A payment method is not defined.","שיטת תשלום אינה מוגדרת.",module,Magento_Multishipping
-"The requested payment method is not available for multishipping.","The requested payment method is not available for multishipping.",module,Magento_Multishipping
-"Item not found or already ordered","Item not found or already ordered",module,Magento_Multishipping
+"The requested payment method is not available for multishipping.","שיטת התשלום המבוקשת אינה זמינה עבור שילוח מרובה.",module,Magento_Multishipping
+"Item not found or already ordered","הפריט לא נמצא או כבר הוזמן",module,Magento_Multishipping
 "Please specify a payment method.","נא לציין שיטת תשלום.",module,Magento_Multishipping
 "Please check shipping addresses information.","יש לבדוק את פרטי כתובות המשלוח.",module,Magento_Multishipping
-"Please specify shipping methods for all addresses.","Please specify shipping methods for all addresses.",module,Magento_Multishipping
+"Please specify shipping methods for all addresses.","נא לבחור שיטת משלוח עבור כל הכתובות.",module,Magento_Multishipping
 "Select Addresses","בחר כתובות",module,Magento_Multishipping
 "Shipping Information","פרטי משלוח",module,Magento_Multishipping
 "Billing Information","מידע אודות החיוב",module,Magento_Multishipping
 "Place Order","ביצוע הזמנה",module,Magento_Multishipping
-"Order Success","Order Success",module,Magento_Multishipping
-"Default Billing","Default Billing",module,Magento_Multishipping
-"Default Shipping","Default Shipping",module,Magento_Multishipping
+"Order Success","ההזמנה בוצעה בהצלחה",module,Magento_Multishipping
+"Default Billing","ברירת מחדל לחיוב",module,Magento_Multishipping
+"Default Shipping","ברירת מחדל למשלוח",module,Magento_Multishipping
 "Select Address","בחר כתובת",module,Magento_Multishipping
 "Add New Address","הוספת כתובת חדשה",module,Magento_Multishipping
-"Back to Billing Information","Back to Billing Information",module,Magento_Multishipping
-"Please select a shipping address for applicable items.","Please select a shipping address for applicable items.",module,Magento_Multishipping
+"Back to Billing Information","חזרה לפרטי חיוב",module,Magento_Multishipping
+"Please select a shipping address for applicable items.","אנא בחר כתובת משלוח עבור הפריטים הרלוונטיים.",module,Magento_Multishipping
 Product,מוצר,module,Magento_Multishipping
 Qty,כמות,module,Magento_Multishipping
 "Send To","שלח אל",module,Magento_Multishipping
-"A shipping selection is not applicable.","A shipping selection is not applicable.",module,Magento_Multishipping
+"A shipping selection is not applicable.","בחירת משלוח אינה ישימה.",module,Magento_Multishipping
 Actions,פעולות,module,Magento_Multishipping
 "Remove Item","הסר פריט",module,Magento_Multishipping
 "Remove item","הסר פריט",module,Magento_Multishipping
-"Go to Shipping Information","Go to Shipping Information",module,Magento_Multishipping
-"Update Qty &amp; Addresses","Update Qty &amp; Addresses",module,Magento_Multishipping
-"Enter a New Address","Enter a New Address",module,Magento_Multishipping
-"Back to Shopping Cart","Back to Shopping Cart",module,Magento_Multishipping
+"Go to Shipping Information","עבור אל פרטי משלוח",module,Magento_Multishipping
+"Update Qty &amp; Addresses","עדכון כמות &amp; כתובות",module,Magento_Multishipping
+"Enter a New Address","הזן כתובת חדשה",module,Magento_Multishipping
+"Back to Shopping Cart","חזרה אל עגלת קניות",module,Magento_Multishipping
 "Billing Address","כתובת חיוב",module,Magento_Multishipping
 Change,שינוי,module,Magento_Multishipping
 "Payment Method","שיטת התשלום",module,Magento_Multishipping
-"Go to Review Your Order","Go to Review Your Order",module,Magento_Multishipping
+"Go to Review Your Order","עבור לסקירת ההזמנה שלך",module,Magento_Multishipping
 "Back to Shipping Information","חזרה למידע עבור השילוח",module,Magento_Multishipping
 "Other items in your order","פריטים אחרים בהזמנה שלך",module,Magento_Multishipping
 "Edit Items","עריכת פריטים",module,Magento_Multishipping
 "Shipping is not applicable.","משלוח אינו ישים.",module,Magento_Multishipping
 "Product Name","שם מוצר",module,Magento_Multishipping
-"Check Out with Multiple Addresses","Check Out with Multiple Addresses",module,Magento_Multishipping
-"Address %1 <span>of %2</span>","Address %1 <span>of %2</span>",module,Magento_Multishipping
+"Check Out with Multiple Addresses","המשך לתשלום עם מספר כתובות",module,Magento_Multishipping
+"Address %1 <span>of %2</span>","כתובת %1 <span>מ- %2</span>",module,Magento_Multishipping
 "Shipping To","משלוח עבור",module,Magento_Multishipping
-"Shipping Method","Shipping Method",module,Magento_Multishipping
+"Shipping Method","שיטת משלוח",module,Magento_Multishipping
 "Incl. Tax","כולל מס",module,Magento_Multishipping
 "Excl. Tax","למעט מס",module,Magento_Multishipping
-"Order Review","Order Review",module,Magento_Multishipping
+"Order Review","סקירת הזמנה",module,Magento_Multishipping
 Item,פריט,module,Magento_Multishipping
 Edit,ערוך,module,Magento_Multishipping
 Price,מחיר,module,Magento_Multishipping
 Subtotal,"סכום ביניים",module,Magento_Multishipping
 Items,פריטים,module,Magento_Multishipping
-"Grand Total:","Grand Total:",module,Magento_Multishipping
-"Submitting order information...","Submitting order information...",module,Magento_Multishipping
+"Grand Total:","סך הכל:",module,Magento_Multishipping
+"Submitting order information...","מעבד פרטי הזמנה...",module,Magento_Multishipping
 "Sorry, no quotes are available for this order right now.","Sorry, no quotes are available for this order right now.",module,Magento_Multishipping
-"Continue to Billing Information","Continue to Billing Information",module,Magento_Multishipping
+"Continue to Billing Information","המשך לפרטי חיוב",module,Magento_Multishipping
 "Back to Select Addresses","חזרה לבחירת כתובות",module,Magento_Multishipping
 "Thank you for your purchase!","תודה על הרכישה!",module,Magento_Multishipping
 "Thanks for your order. We'll email you order details and tracking information.","תודה על הזמנתך. אנחנו בדוק באיימל את פרטי ההזמנה, מידע, ומעקב משלוח.",module,Magento_Multishipping
-"Your order numbers are:","Your order numbers are:",module,Magento_Multishipping
+"Your order numbers are:","מספרי ההזמנה שלך הם:",module,Magento_Multishipping
 "Your order number is:","מספר ההזמנה שלך הוא:",module,Magento_Multishipping
-"Continue Shopping","Continue Shopping",module,Magento_Multishipping
+"Continue Shopping","המשך בקניות",module,Magento_Multishipping
 "We can't complete your order because you don't have a payment method set up.","אין אפשרות להשלים את ההזמנה שלך כי אין לך שיטת תשלום מוגדרת.",module,Magento_Multishipping
 "Please choose a payment method.","אנא בחר שיטת תשלום.",module,Magento_Multishipping
-"Multishipping Settings Section","Multishipping Settings Section",module,Magento_Multishipping
-"Multishipping Settings","Multishipping Settings",module,Magento_Multishipping
+"Multishipping Settings Section","סעיף הגדרות שילוח מרובה",module,Magento_Multishipping
+"Multishipping Settings","הגדרות שילוח מרובה",module,Magento_Multishipping
 Options,אפשרויות,module,Magento_Multishipping
 "Allow Shipping to Multiple Addresses","אפשר משלוח למספר כתובות",module,Magento_Multishipping
-"Maximum Qty Allowed for Shipping to Multiple Addresses","Maximum Qty Allowed for Shipping to Multiple Addresses",module,Magento_Multishipping
-"Review Order","Review Order",module,Magento_Multishipping
-"Select Shipping Method","Select Shipping Method",module,Magento_Multishipping
-"We received your order!","We received your order!",module,Magento_Multishipping
+"Maximum Qty Allowed for Shipping to Multiple Addresses","כמות המרבית המותרת עבור משלוח לכתובות מרובות",module,Magento_Multishipping
+"Review Order","סקירת הזמנה",module,Magento_Multishipping
+"Select Shipping Method","בחר שיטת משלוח",module,Magento_Multishipping
+"We received your order!","קיבלנו את ההזמנה שלך!",module,Magento_Multishipping
 "Message has been rejected: %1","ההודעה נדחתה: %1",module,Magento_MysqlMq
 "MySQL Message Queue Cleanup","ההודעה לתור ניקוי ב-MySQL",module,Magento_MysqlMq
 "All the times are in minutes. Use ""0"" if you want to skip automatic clearance.","כל הזמנים מוצגים בתור דקות. השתמש ב-""0"", אם ברצונך לדלג על הסיווג האוטומטי.",module,Magento_MysqlMq
