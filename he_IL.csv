@@ -2866,7 +2866,7 @@ Shipping,משלוח,module,Magento_Checkout
 Summary,"סיכום הזמנה",module,Magento_Checkout
 "Order Total","סיכום הזמנה",module,Magento_Checkout
 "Shipping Address","כתובת למשלוח",module,Magento_Checkout
-"We'll send your order confirmation here.","אנו נשלח את אישור ההזמנה שלך כאן.",module,Magento_Checkout
+"We'll send your order confirmation here.","אנו נשלח את אישור ההזמנה שלך לכאן.",module,Magento_Checkout
 Payment,תשלום,module,Magento_Checkout
 "Not yet calculated","עדיין לא חושב",module,Magento_Checkout
 "We received your order!","קיבלנו את ההזמנה שלך!",module,Magento_Checkout
@@ -3645,7 +3645,7 @@ Download,הורדה,module,Magento_Customer
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your billing address for proper VAT calculation.","אם אתה לקוח מע״מ רשום, אנא לחץ <a href=""%1""> כאן</a> כדי להזין אותך לכתובת חיוב עבור חישוב מע״מ נכונה.",module,Magento_Customer
 "Account Information","פרטי חשבון",module,Magento_Customer
 "You saved the account information.","שמרת את פרטי החשבון.",module,Magento_Customer
-"You did not sign in correctly or your account is temporarily disabled.","You did not sign in correctly or your account is temporarily disabled.",module,Magento_Customer
+"You did not sign in correctly or your account is temporarily disabled.","לא נרשמת נכון או שהחשבון שלך אינו פעיל זמנית.",module,Magento_Customer
 "Password confirmation doesn't match entered password.","הסיסמה אינה תואמת הסיסמה שהוזנה.",module,Magento_Customer
 "The password doesn't match this account.","הסיסמה אינה תואמת את החשבון שהזנת.",module,Magento_Customer
 "Please correct the email address.","נא תקן את כתובת הדוא״ל.",module,Magento_Customer
@@ -3914,14 +3914,14 @@ Password:,סיסמה:,module,Magento_Customer
 "Your %store_name email has been changed","Your %store_name email has been changed",module,Magento_Customer
 "Hello,","שלום,",module,Magento_Customer
 "We have received a request to change the following information associated with your account at %store_name: email.","We have received a request to change the following information associated with your account at %store_name: email.",module,Magento_Customer
-"If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>","If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>",module,Magento_Customer
+"If you have not authorized this action, please contact us immediately at <a href=""mailto:%store_email"">%store_email</a>","אם הבקשה לא נעשתה על ידייך, צרו איתנו קשר בכתובת <a href="""" mailto:%store_email""""="""">%store_email</a>",module,Magento_Customer
 "or call us at <a href=""tel:%store_phone"">%store_phone</a>","or call us at <a href=""tel:%store_phone"">%store_phone</a>",module,Magento_Customer
 "Thanks,<br>%store_name","תודה לך, %store_name<br>",module,Magento_Customer
 "Your %store_name email and password has been changed","Your %store_name email and password has been changed",module,Magento_Customer
-"We have received a request to change the following information associated with your account at %store_name: email, password.","We have received a request to change the following information associated with your account at %store_name: email, password.",module,Magento_Customer
-"Reset your %store_name password","Reset your %store_name password",module,Magento_Customer
+"We have received a request to change the following information associated with your account at %store_name: email, password.","קיבלנו בקשה לשנות את הסיסמה של חשבונך ב- %store_name.",module,Magento_Customer
+"Reset your %store_name password","איפוס סיסמה עבור %store_name",module,Magento_Customer
 "There was recently a request to change the password for your account.","There was recently a request to change the password for your account.",module,Magento_Customer
-"If you requested this change, set a new password here:","If you requested this change, set a new password here:",module,Magento_Customer
+"If you requested this change, set a new password here:","אם ביקשת שינוי זה, אפס את הסיסמה שלך כאן:",module,Magento_Customer
 "If you did not make this request, you can ignore this email and your password will remain the same.","If you did not make this request, you can ignore this email and your password will remain the same.",module,Magento_Customer
 "Your %store_name password has been changed","Your %store_name password has been changed",module,Magento_Customer
 "We have received a request to change the following information associated with your account at %store_name: password.","We have received a request to change the following information associated with your account at %store_name: password.",module,Magento_Customer
@@ -8341,6 +8341,7 @@ Action,פעולה,module,Magento_Reports
 Report,Report,module,Magento_Reports
 Description,Description,module,Magento_Reports
 undefined,undefined,module,Magento_Reports
+"Item in Cart","Item in Cart",module,Magento_Reports
 "Save Review","שמור חוות דעת",module,Magento_Review
 "New Review","חוות דעת חדשה",module,Magento_Review
 "Review Details","פרטי חוות דעת מוצר",module,Magento_Review
@@ -9675,7 +9676,7 @@ Date,Date,module,Magento_Sales
 "Ship To","נשלח אל",module,Magento_Sales
 Actions,פעולות,module,Magento_Sales
 "View Order","הצג הזמנה",module,Magento_Sales
-"You have placed no orders.","You have placed no orders.",module,Magento_Sales
+"You have placed no orders.","אין לך הזמנות.",module,Magento_Sales
 "No shipping information available","No shipping information available",module,Magento_Sales
 "Print Order","הדפס הזמנה",module,Magento_Sales
 "Print All Invoices","Print All Invoices",module,Magento_Sales
