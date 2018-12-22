@@ -1,1 +1,7 @@
 Mageplaza,Mageplaza
+"Order ID","מספר הזמנה",module,Magento_Sales
+"Order ID","מספר הזמנה",module,Magento_Paypal
+"Billing Last Name","שם משפחה",module,Magento_Sales
+"Find Order By","חיפוש הזמנה לפי",module,Magento_Sales
+"ZIP Code","מיקוד",module,Magento_Sales
+"Billing ZIP Code","מיקוד",module,Magento_Sales
