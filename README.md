@@ -89,8 +89,11 @@ Unzip the Hebrew language pack to Magento 2 root folder. In this guide, we extra
 Your Magento 2 root folder can be: `/home/account_name/yourstore.com/public_html/`
 
 ```
-unzip master.zip app/i18n/Mageplaza/he_il
+unzip master.zip app/i18n/Mageplaza/
 ```
+
+Rename folder `magento-2-hebrew-language-pack` to `he_il`.
+
 
 You also can unzip locally and upload them to Magento 2 root folder.
 
@@ -110,7 +113,11 @@ To download and install Hebrew pack manually, you have to access to your server 
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `he_IL.zip` into `app/i18n/mageplaza/he_IL/he_IL.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/he_il/he_IL.csv`
+
+See this screenshot
+
+![Hebrew pack](https://i.imgur.com/tS668yC.png)
 
 #### Step 2: Flush cache
 
