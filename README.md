@@ -117,11 +117,13 @@ To download and install Hebrew pack manually, you have to access to your server 
 
 #### Step 1: Unzip and upload
 
-Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/he_il/he_IL.csv`
+Unzip the compressed file and upload file `master.zip` into `app/i18n/Mageplaza/he_il/`
 
-See this screenshot
+See this screenshot:
 
 ![Hebrew pack](https://cdn3.mageplaza.com/media/general/language-pack.png)
+
+This language pack code is: **he_il**
 
 #### Step 2: Flush cache
 
