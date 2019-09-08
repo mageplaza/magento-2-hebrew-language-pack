@@ -4,7 +4,7 @@
 
 Read more [Magento 2 Hebrew Language Pack](https://www.mageplaza.com/magento-2-hebrew-language-pack.html)
 
-![Mageplaza Hebrew language pack](https://i.imgur.com/qjWPj1W.png)
+![Mageplaza Hebrew language pack](https://cdn3.mageplaza.com/media/general/qjWPj1W.png)
 
 ## Overview
 
