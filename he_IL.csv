@@ -3287,14 +3287,14 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Remove item","הסר פריט",module,Magento_Checkout
 "You have no items in your shopping cart.","סל הקניות שלך ריק.",module,Magento_Checkout
 "Click <a href=""%1"">here</a> to continue shopping.","לחץ <a href=""%1"">כאן</a> כדי להמשיך לקניות נוספות.",module,Magento_Checkout
-"Estimate Tax","הערכת מס",module,Magento_Checkout
-"Estimate Shipping and Tax","עלות משלוח ומיסים מוערכת",module,Magento_Checkout
-"Excl. Tax","למעט מס",module,Magento_Checkout
+"Estimate Tax","עלות מע""מ משוערת",module,Magento_Checkout
+"Estimate Shipping and Tax","עלות משלוח ומע""מ משוערת",module,Magento_Checkout
+"Excl. Tax","למעט מע""מ",module,Magento_Checkout
 "Loading...","טוען...",module,Magento_Checkout
 "Order #","# הזמנה",module,Magento_Checkout
 "Proceed to Checkout","המשך לתשלום",module,Magento_Checkout
 "Product Name","שם מוצר",module,Magento_Checkout
-"Incl. Tax","כולל מס",module,Magento_Checkout
+"Incl. Tax","כולל מע""מ",module,Magento_Checkout
 "Your order number is: %1.","מספר ההזמנה שלך: %1.",module,Magento_Checkout
 "Your order # is: <span>%1</span>.","מספר ההזמנה שלך: <span>%1</span>.",module,Magento_Checkout
 "We'll email you an order confirmation with details and tracking info.","יישלח אימייל אישור עם פרטים על ההזמנה ומידע למעקב אחר החבילה.",module,Magento_Checkout
@@ -3372,7 +3372,7 @@ Time in seconds between the widget updates.,module,Magento_CatalogWidget
 "Send Payment Failed Email Copy To","שליחת תשלום נכשל העתק ל",module,Magento_Checkout
 "Separate by "","".","נפרדים על-ידי "","".",module,Magento_Checkout
 "Send Payment Failed Email Copy Method","שליחת תשלום נכשל שיטת העתקה",module,Magento_Checkout
-"Summary","נושא",module,Magento_Checkout
+"Summary","סיכום",module,Magento_Checkout
 "Order Total","סה""כ להזמנה",module,Magento_Checkout
 "Shipping Address","כתובת למשלוח",module,Magento_Checkout
 "We'll send your order confirmation here.","אנו נשלח את אישור ההזמנה שלך לכאן.",module,Magento_Checkout
@@ -11835,8 +11835,8 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Shipping Excl. Tax (%1)","משלוח לא כולל מס (%1)",module,Magento_Sales
 "New Credit Memo for Invoice #%1","זיכוי חדש עבור חשבונית #%1",module,Magento_Sales
 "New Credit Memo for Order #%1","זיכוי חדש עבור הזמנה #%1",module,Magento_Sales
-"Refund Shipping (Incl. Tax)","החזר כספי עבור משלוח (כולל מס)",module,Magento_Sales
-"Refund Shipping (Excl. Tax)","החזר כספי עבור משלוח (לא כולל מס)",module,Magento_Sales
+"Refund Shipping (Incl. Tax)","החזר כספי עבור משלוח (כולל מע""מ)",module,Magento_Sales
+"Refund Shipping (Excl. Tax)","החזר כספי עבור משלוח (לא כולל מע""מ)",module,Magento_Sales
 "Refund Shipping","החזר כספי עבור משלוח",module,Magento_Sales
 "Update Qty's","עדכן כמויות",module,Magento_Sales
 "Update Totals","Update Totals",module,Magento_Sales
@@ -12171,7 +12171,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Products","מוצרים",module,Magento_Sales
 "Total (ex)","Total (ex)",module,Magento_Sales
 "Qty","כמות",module,Magento_Sales
-"Tax","מס",module,Magento_Sales
+"Tax","מע""מ",module,Magento_Sales
 "Total (inc)","Total (inc)",module,Magento_Sales
 "Credit Memo # ","Credit Memo # ",module,Magento_Sales
 "Invoice # ","Invoice # ",module,Magento_Sales
@@ -12180,7 +12180,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "An item object is not specified.","An item object is not specified.",module,Magento_Sales
 "A PDF object is not specified.","A PDF object is not specified.",module,Magento_Sales
 "A PDF page object is not specified.","A PDF page object is not specified.",module,Magento_Sales
-"Excl. Tax","למעט מס",module,Magento_Sales
+"Excl. Tax","ללא מע""מ",module,Magento_Sales
 "Incl. Tax","כולל מס",module,Magento_Sales
 "Packing Slip # ","Packing Slip # ",module,Magento_Sales
 "title","כותרת",module,Magento_Sales
@@ -12310,9 +12310,9 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "No items","אין פריטים",module,Magento_Sales
 "Append Comments","צרף הערות",module,Magento_Sales
 "Email Order Confirmation","Email Order Confirmation",module,Magento_Sales
-"Grand Total Excl. Tax","Grand Total Excl. Tax",module,Magento_Sales
-"Grand Total Incl. Tax","Grand Total Incl. Tax",module,Magento_Sales
-"Subtotal (Excl. Tax)","סכום ביניים (למעט מס)",module,Magento_Sales
+"Grand Total Excl. Tax","סה""כ הזמנה ללא מע""מ",module,Magento_Sales
+"Grand Total Incl. Tax","סה""כ הזמנה כולל מע""מ",module,Magento_Sales
+"Subtotal (Excl. Tax)","סכום ביניים (ללא מע""מ)",module,Magento_Sales
 "Subtotal (Incl. Tax)","סכום ביניים (כולל מס)",module,Magento_Sales
 "Payment &amp; Shipping Method","שיטות תשלום ומשלוח",module,Magento_Sales
 "Payment Information","פרטי תשלום",module,Magento_Sales
@@ -12321,7 +12321,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Items to Refund","Items to Refund",module,Magento_Sales
 "Return to Stock","Return to Stock",module,Magento_Sales
 "Qty to Refund","Qty to Refund",module,Magento_Sales
-"Tax Amount","סכום המס",module,Magento_Sales
+"Tax Amount","סכום מע""מ",module,Magento_Sales
 "Discount Amount","סכום הנחה",module,Magento_Sales
 "Row Total","סה״כ השורה",module,Magento_Sales
 "No Items To Refund","No Items To Refund",module,Magento_Sales
@@ -12356,7 +12356,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "The invoice will be created offline without the payment gateway.","The invoice will be created offline without the payment gateway.",module,Magento_Sales
 "Email Copy of Invoice","Email Copy of Invoice",module,Magento_Sales
 "Items Invoiced","Items Invoiced",module,Magento_Sales
-"Total Tax","Total Tax",module,Magento_Sales
+"Total Tax","סה""כ מע""מ",module,Magento_Sales
 "From Name","From Name",module,Magento_Sales
 "To Name","To Name",module,Magento_Sales
 "Status","סטטוס",module,Magento_Sales
@@ -12475,7 +12475,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Enable","אפשר",module,Magento_Sales
 "Minimum Amount","Minimum Amount",module,Magento_Sales
 "Subtotal after discount","Subtotal after discount",module,Magento_Sales
-"Include Tax to Amount","Include Tax to Amount",module,Magento_Sales
+"Include Tax to Amount","הוסף מע""מ לסכום ההזמנה",module,Magento_Sales
 "Description Message","Description Message",module,Magento_Sales
 "This message will be shown in the shopping cart when the subtotal (after discount) is lower than the minimum allowed amount.","This message will be shown in the shopping cart when the subtotal (after discount) is lower than the minimum allowed amount.",module,Magento_Sales
 "Error to Show in Shopping Cart","Error to Show in Shopping Cart",module,Magento_Sales
@@ -12558,7 +12558,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "State Code and Title","State Code and Title",module,Magento_Sales
 "Item Status","Item Status",module,Magento_Sales
 "Original Price","Original Price",module,Magento_Sales
-"Tax Percent","Tax Percent",module,Magento_Sales
+"Tax Percent","אחוז מע""מ",module,Magento_Sales
 "All Store Views","כל תצוגות החנויות",module,Magento_Sales
 "PDF Credit Memos","PDF Credit Memos",module,Magento_Sales
 "Purchase Point","נקודת רכישה",module,Magento_Sales
@@ -16221,73 +16221,73 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Transaction has been canceled","Transaction has been canceled",module,Magento_Worldpay
 "Transaction has been declined","העסקה נדחתה",module,Magento_Worldpay
 "The response type is incorrect. Verify the type and try again.","The response type is incorrect. Verify the type and try again.",module,Magento_Worldpay
-"Summary","נושא",theme,frontend\Magento\blank
-"Account Dashboard","לוח ניהול",theme,frontend\Magento\blank
-"Account Information","פרטי חשבון",theme,frontend\Magento\blank
-"Address Book","ספר כתובות",theme,frontend\Magento\blank
-"Menu","תפריט",theme,frontend\Magento\blank
-"Account","חשבון",theme,frontend\Magento\blank
-"Settings","הגדרות",theme,frontend\Magento\blank
-"Now Shopping by","מסנן לפי",theme,frontend\Magento\luma
-"Previous","הקודם",theme,frontend\Magento\luma
-"Remove","הסר",theme,frontend\Magento\luma
-"Remove This Item","הסרת פריט זה",theme,frontend\Magento\luma
-"Shop By","סנן לפי",theme,frontend\Magento\luma
-"Clear All","נקה הכל",theme,frontend\Magento\luma
-"Shopping Options","אפשרויות סינון",theme,frontend\Magento\luma
-"Welcome to %store_name","ברוכים הבאים ל-%store_name",theme,frontend\Magento\luma
-"%name,","%name,",theme,frontend\Magento\luma
-"Welcome to %store_name.","ברוכים הבאים ל-%store_name.",theme,frontend\Magento\luma
-"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","כדי להיכנס לאתר שלנו, השתמש בפרטי חיבור אלה במהלך הרכישה או בדף <a href=""%customer_url""> החשבון שלי</a>:",theme,frontend\Magento\luma
-"Email:","דואר אלקטרוני:",theme,frontend\Magento\luma
-"Password:","סיסמה:",theme,frontend\Magento\luma
-"Password you set when creating account","הסיסמה שהגדרת בעת יצירת החשבון",theme,frontend\Magento\luma
-"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","שכחת את הסיסמה לחשבון? לחצ/י <a href=""%reset_url"">כאן</a> כדי לאפס אותה.",theme,frontend\Magento\luma
-"When you sign in to your account, you will be able to:","באמצעות התחברות לחשבונך, יתאפשר לך:",theme,frontend\Magento\luma
-"Quick Checkout","צ'ק אאוט מהיר",theme,frontend\Magento\luma
-"Proceed through checkout faster","המשך לקופה מהר יותר",theme,frontend\Magento\luma
-"Order Status","סטטוס הזמנה",theme,frontend\Magento\luma
-"Check the status of orders","בדוק את מצב הזמנות",theme,frontend\Magento\luma
-"Manage Addresses","נהל כתובות",theme,frontend\Magento\luma
-"Store alternative addresses","שמור כתובות חלופיות",theme,frontend\Magento\luma
-"For shipping to multiple family members and friends","עבור שילוח למספר חברים או בני משפחה",theme,frontend\Magento\luma
-"Order History","היסטורית הזמנות",theme,frontend\Magento\luma
-"View past orders","הצג הזמנות קודמות",theme,frontend\Magento\luma
-"Footer","כותרת תחתונה",theme,frontend\Magento\luma
-"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>About Us</a>",theme,frontend\Magento\luma
-"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Customer Service</a>",theme,frontend\Magento\luma
-"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone""> %store_phone</a>",theme,frontend\Magento\luma
-"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","שעות פעילות: < br / > <span class=""no-link"">%store_hours</span>.",theme,frontend\Magento\luma
-"Credit memo for your %store_name order","הזיכוי עבור ההזמנה %store_name",theme,frontend\Magento\luma
-"Thank you for your order from %store_name.","תודה על הזמנתך מ- %store_name.",theme,frontend\Magento\luma
-"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","באפשרותך לבדוק את מצב ההזמנה שלך באמצעות <a href=""%account_url""> התחברות לחשבון שלך</a>.",theme,frontend\Magento\luma
-"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","אם יש לך שאלות לגבי ההזמנות שלך, אתה יכול שלח לנו דוא ל- <a href=""mailto:%store_email""> %store_email</a>.",theme,frontend\Magento\luma
-"Your Credit Memo #%creditmemo_id for Order #%order_id","תזכיר האשראי שלך #%creditmemo_id עבור הזמנה #%order_id",theme,frontend\Magento\luma
-"Billing Info","פרטי חיוב",theme,frontend\Magento\luma
-"Shipping Info","פרטי משלוח",theme,frontend\Magento\luma
-"Payment Method","שיטת התשלום",theme,frontend\Magento\luma
-"Shipping Method","שיטת משלוח",theme,frontend\Magento\luma
-"Update to your %store_name credit memo","לעדכן את הזיכוי עבור %store_name",theme,frontend\Magento\luma
-"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","הזמנתך %increment_id # עודכנה לסטטוס <strong>%order_status</strong>.",theme,frontend\Magento\luma
-"Invoice for your %store_name order","החשבונית עבור ההזמנה %store_name",theme,frontend\Magento\luma
-"Your Invoice #%invoice_id for Order #%order_id","חשבוניתך %invoice_id # עבור הזמנה #%order_id",theme,frontend\Magento\luma
-"Update to your %store_name invoice","לעדכן את החשבונית %store_name",theme,frontend\Magento\luma
-"Your %store_name order confirmation","אישור ההזמנה שלך %store_name",theme,frontend\Magento\luma
-"%customer_name,","%customer_name,",theme,frontend\Magento\luma
-"Once your package ships we will send you a tracking number.","ברגע שהחבילה שלך תשלח תקבל מספר מעקב.",theme,frontend\Magento\luma
-"Your Order <span class=""no-link"">#%increment_id</span>","הזמנתך <span class=""no-link""> #%increment_id</span>",theme,frontend\Magento\luma
-"Placed on <span class=""no-link"">%created_at</span>","נוצרה ב <span class=""no-link"">%created_at</span>",theme,frontend\Magento\luma
-"Update to your %store_name order","לעדכן את ההזמנה %store_name שלך",theme,frontend\Magento\luma
-"Your %store_name order has shipped","%store_name ההזמנה שלך נשלחה",theme,frontend\Magento\luma
-"Your shipping confirmation is below. Thank you again for your business.","להלן אישור המשלוח שלך. תודה על רכישתך.",theme,frontend\Magento\luma
-"Your Shipment #%shipment_id for Order #%order_id","המשלוח שלך %shipment_id # עבור הזמנה #%order_id",theme,frontend\Magento\luma
-"Update to your %store_name shipment","עדכן את %store_name לשילוח",theme,frontend\Magento\luma
-"Account Dashboard","לוח ניהול",theme,frontend\Magento\luma
-"Address Book","ספר כתובות",theme,frontend\Magento\luma
-"Account Information","פרטי חשבון",theme,frontend\Magento\luma
-"About Us","אודותינו",theme,frontend\Magento\luma
-"Customer Service","שירות לקוחות",theme,frontend\Magento\luma
-"My Account","החשבון שלי",theme,frontend\Magento\luma
+"Summary","נושא",theme,frontend/Magento/blank
+"Account Dashboard","לוח ניהול",theme,frontend/Magento/blank
+"Account Information","פרטי חשבון",theme,frontend/Magento/blank
+"Address Book","ספר כתובות",theme,frontend/Magento/blank
+"Menu","תפריט",theme,frontend/Magento/blank
+"Account","חשבון",theme,frontend/Magento/blank
+"Settings","הגדרות",theme,frontend/Magento/blank
+"Now Shopping by","מסנן לפי",theme,frontend/Magento/luma
+"Previous","הקודם",theme,frontend/Magento/luma
+"Remove","הסר",theme,frontend/Magento/luma
+"Remove This Item","הסרת פריט זה",theme,frontend/Magento/luma
+"Shop By","סנן לפי",theme,frontend/Magento/luma
+"Clear All","נקה הכל",theme,frontend/Magento/luma
+"Shopping Options","אפשרויות סינון",theme,frontend/Magento/luma
+"Welcome to %store_name","ברוכים הבאים ל-%store_name",theme,frontend/Magento/luma
+"%name,","%name,",theme,frontend/Magento/luma
+"Welcome to %store_name.","ברוכים הבאים ל-%store_name.",theme,frontend/Magento/luma
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","כדי להיכנס לאתר שלנו, השתמש בפרטי חיבור אלה במהלך הרכישה או בדף <a href=""%customer_url""> החשבון שלי</a>:",theme,frontend/Magento/luma
+"Email:","דואר אלקטרוני:",theme,frontend/Magento/luma
+"Password:","סיסמה:",theme,frontend/Magento/luma
+"Password you set when creating account","הסיסמה שהגדרת בעת יצירת החשבון",theme,frontend/Magento/luma
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","שכחת את הסיסמה לחשבון? לחצ/י <a href=""%reset_url"">כאן</a> כדי לאפס אותה.",theme,frontend/Magento/luma
+"When you sign in to your account, you will be able to:","באמצעות התחברות לחשבונך, יתאפשר לך:",theme,frontend/Magento/luma
+"Quick Checkout","צ'ק אאוט מהיר",theme,frontend/Magento/luma
+"Proceed through checkout faster","המשך לקופה מהר יותר",theme,frontend/Magento/luma
+"Order Status","סטטוס הזמנה",theme,frontend/Magento/luma
+"Check the status of orders","בדוק את מצב הזמנות",theme,frontend/Magento/luma
+"Manage Addresses","נהל כתובות",theme,frontend/Magento/luma
+"Store alternative addresses","שמור כתובות חלופיות",theme,frontend/Magento/luma
+"For shipping to multiple family members and friends","עבור שילוח למספר חברים או בני משפחה",theme,frontend/Magento/luma
+"Order History","היסטורית הזמנות",theme,frontend/Magento/luma
+"View past orders","הצג הזמנות קודמות",theme,frontend/Magento/luma
+"Footer","כותרת תחתונה",theme,frontend/Magento/luma
+"<a href=%url_about_us>About Us</a>","<a href=%url_about_us>About Us</a>",theme,frontend/Magento/luma
+"<a href=url_customer_service>Customer Service</a>","<a href=url_customer_service>Customer Service</a>",theme,frontend/Magento/luma
+"<a href=""tel:%store_phone"">%store_phone</a>","<a href=""tel:%store_phone""> %store_phone</a>",theme,frontend/Magento/luma
+"Hours of Operation:<br /><span class=""no-link"">%store_hours</span>.","שעות פעילות: < br / > <span class=""no-link"">%store_hours</span>.",theme,frontend/Magento/luma
+"Credit memo for your %store_name order","הזיכוי עבור ההזמנה %store_name",theme,frontend/Magento/luma
+"Thank you for your order from %store_name.","תודה על הזמנתך מ- %store_name.",theme,frontend/Magento/luma
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","באפשרותך לבדוק את מצב ההזמנה שלך באמצעות <a href=""%account_url""> התחברות לחשבון שלך</a>.",theme,frontend/Magento/luma
+"If you have questions about your order, you can email us at <a href=""mailto:%store_email"">%store_email</a>.","אם יש לך שאלות לגבי ההזמנות שלך, אתה יכול שלח לנו דוא ל- <a href=""mailto:%store_email""> %store_email</a>.",theme,frontend/Magento/luma
+"Your Credit Memo #%creditmemo_id for Order #%order_id","תזכיר האשראי שלך #%creditmemo_id עבור הזמנה #%order_id",theme,frontend/Magento/luma
+"Billing Info","פרטי חיוב",theme,frontend/Magento/luma
+"Shipping Info","פרטי משלוח",theme,frontend/Magento/luma
+"Payment Method","שיטת התשלום",theme,frontend/Magento/luma
+"Shipping Method","שיטת משלוח",theme,frontend/Magento/luma
+"Update to your %store_name credit memo","לעדכן את הזיכוי עבור %store_name",theme,frontend/Magento/luma
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","הזמנתך %increment_id # עודכנה לסטטוס <strong>%order_status</strong>.",theme,frontend/Magento/luma
+"Invoice for your %store_name order","החשבונית עבור ההזמנה %store_name",theme,frontend/Magento/luma
+"Your Invoice #%invoice_id for Order #%order_id","חשבוניתך %invoice_id # עבור הזמנה #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name invoice","לעדכן את החשבונית %store_name",theme,frontend/Magento/luma
+"Your %store_name order confirmation","אישור ההזמנה שלך %store_name",theme,frontend/Magento/luma
+"%customer_name,","%customer_name,",theme,frontend/Magento/luma
+"Once your package ships we will send you a tracking number.","ברגע שהחבילה שלך תשלח תקבל מספר מעקב.",theme,frontend/Magento/luma
+"Your Order <span class=""no-link"">#%increment_id</span>","הזמנתך <span class=""no-link""> #%increment_id</span>",theme,frontend/Magento/luma
+"Placed on <span class=""no-link"">%created_at</span>","נוצרה ב <span class=""no-link"">%created_at</span>",theme,frontend/Magento/luma
+"Update to your %store_name order","לעדכן את ההזמנה %store_name שלך",theme,frontend/Magento/luma
+"Your %store_name order has shipped","%store_name ההזמנה שלך נשלחה",theme,frontend/Magento/luma
+"Your shipping confirmation is below. Thank you again for your business.","להלן אישור המשלוח שלך. תודה על רכישתך.",theme,frontend/Magento/luma
+"Your Shipment #%shipment_id for Order #%order_id","המשלוח שלך %shipment_id # עבור הזמנה #%order_id",theme,frontend/Magento/luma
+"Update to your %store_name shipment","עדכן את %store_name לשילוח",theme,frontend/Magento/luma
+"Account Dashboard","לוח ניהול",theme,frontend/Magento/luma
+"Address Book","ספר כתובות",theme,frontend/Magento/luma
+"Account Information","פרטי חשבון",theme,frontend/Magento/luma
+"About Us","אודותינו",theme,frontend/Magento/luma
+"Customer Service","שירות לקוחות",theme,frontend/Magento/luma
+"My Account","החשבון שלי",theme,frontend/Magento/luma
 "Backup options","אפשרויות גיבוי",lib,web
 "Warning","אזהרה",lib,web
 "Cancel","ביטול",lib,web
